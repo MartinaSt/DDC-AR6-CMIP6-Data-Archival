@@ -2,7 +2,7 @@
 
 # DDC-AR6-CMIP6-Data-Archival
 
-This github repository documents the CMIP6 input dataset archival process at the IPCC DDC Partner DKRZ. This documentation is part of the enhanced transparency implemented as IPCC FAIR Guidelines into the AR6 (Pirani et al., 2022, https://doi.org/10.5281/zenodo.6504468). WGI AR6 TSU provided the CMIP6 input dataset lists provided by the WGI AR6 chapters, which is available at https://drive.google.com/drive/u/0/folders/1oq_MdqGTOId-oMn8_2WzmZrloEYsF-sk). These lists are known to be incomplete. Therefore these TSU lists were merged with the datasets requested by WGI authors at the start of the Sixth Assessment Cycle (https://goo.gl/tVaGko) to obtain the final list of CMIP6 datasets that was added as DDC AR6 Reference Data Archive. The WGI-requested variable list was also used as source for the definition of the CMIP6 data subset disseminated as part of Copernicus CDS (https://cds.climate.copernicus.eu/cdsapp#!/dataset/projections-cmip6).
+This github repository documents the CMIP6 input dataset archival process at the IPCC DDC Partner DKRZ. This documentation is part of the enhanced transparency implemented as IPCC FAIR Guidelines into the AR6 (Pirani et al., 2022, https://doi.org/10.5281/zenodo.6504468). WGI AR6 TSU provided the CMIP6 input dataset lists provided by the WGI AR6 chapters, which is available at https://drive.google.com/drive/u/0/folders/1oq_MdqGTOId-oMn8_2WzmZrloEYsF-sk. These lists are known to be incomplete. Therefore these TSU lists were merged with the datasets requested by WGI authors at the start of the Sixth Assessment Cycle (https://goo.gl/tVaGko) to obtain the final list of CMIP6 datasets that was added as DDC AR6 Reference Data Archive. The WGI-requested variable list was also used as source for the definition of the CMIP6 data subset disseminated as part of Copernicus CDS (https://cds.climate.copernicus.eu/cdsapp#!/dataset/projections-cmip6).
 
 The CMIP6 input dataset lists provided by the TSU WGI contain abbreviated information on figure usage, which was used to add references/links to to the figure/final datasets or the figure webpage of the IPCC WGI AR6 to the metadata. 
 
@@ -60,7 +60,7 @@ The CMIP6 input data set lists provided by the TSU WGI contain abbreviated infor
    - [Metadata_Conformance](/Metadata_Conformance): containing scripts for steps 1 to 3
    - [Data_Verification](/Data_Verification): containing scripts for steps 4 to 6
 
-## Variable usage analysis: Preparation/varlist4dreq.py
+## Variable usage analysis: Metadata_Conformance/varlist4dreq.py
 
 For CMIP7 planning, the CMIP6 variable usage by IPCC WGI authors was analyzed based on the corrected CMIP6 input dataset list. The results were shared through the google drive folder: https://drive.google.com/drive/u/0/folders/14YSgIype4fFtnXb4DNMmgXxYQiLLC0wy
 
