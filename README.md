@@ -18,7 +18,7 @@ The CMIP6 input dataset lists provided by the TSU WGI contain abbreviated inform
    - input directory containing the tidied JSON chapter files: input_20220125_tidy
    - configuration file containing correction rules: CMIP6correct.conf
    - output directory containing corrected JSON chapter files, a list of remaining 23016 CMIP6 datasets (including doublets) and a list of 88 non-correctable datasets: input_20220125_tidy_correct
-   - log file: log/CMIP6correct_<date of scipt execution>
+   - log file: log/CMIP6correct_2022-07-11
 
 **3. Merge JSON chapter lists into single list and separate MPI-GE datasets from CMIP6 datasets:**
 
@@ -26,7 +26,7 @@ The CMIP6 input dataset lists provided by the TSU WGI contain abbreviated inform
    - usage `./compileList.py <input dir> <cmip6|cordex|cmip5>`
    - input directory with corrected JSON chapter files: input_20220125_tidy_correct
    - output directory for merged file:  output
-   - log file: log/compileList_<date of scipt execution>
+   - log file: log/compileList_2022-07-11.log
 
 **4. Check data availability in ESGF:**
 
