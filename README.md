@@ -70,4 +70,4 @@ The Preparation package requires python2.7. The Validation package was done usin
 
 ## License
 
-The software is released under the [MIT License](LICENSE.md).
+The software is released under the [MIT License](LICENSE).
