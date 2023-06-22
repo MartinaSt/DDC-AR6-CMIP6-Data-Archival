@@ -1,0 +1,89 @@
+CMIP6.CMIP.BCC.bcc-csm1-1.historical..Omon.so.grf.:model non-existing in CMIP6 but only used in CMIP5
+CMIP6.CMIP.BCC.bcc-csm1-1.historical..Omon.thetao.grf.:model non-existing in CMIP6 but only used in CMIP5
+CMIP6.CMIP.NCAR.CESM1-BGC.historical.r1i1p1.Lmon.treeFrac..:model non-existing in CMIP6 but only used in CMIP5
+CMIP6.CMIP.NCAR.CESM2_1_001.historical.r1i1p1.Lmon.tasmax..:unknown model
+CMIP6.CMIP.NCAR.CESM2_1_001.historical.r1i1p1.Lmon.tasmin..:unknown model
+CMIP6.CMIP.NCAR.LENS1.historical.r1i1p1.Lmon.tasmax..:unknown model
+CMIP6.CMIP.NCAR.LENS1.historical.r1i1p1.Lmon.tasmin..:unknown model
+CMIP6.CMIP.CAS.FGOALS-f3-L.historical.r1i1p1f1.SImon.??..:missing variable
+CMIP6.CMIP.CAS.FGOALS-g3.historical.r1i1p1f1.SImon.??..:missing variable
+CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.historical.r1i1p1f1.SImon.??..:missing variable
+CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.historical.r2i1p1f1.SImon.??..:missing variable
+CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.historical.r3i1p1f1.SImon.??..:missing variable
+CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.historical.r7i1p1f1.SImon.??..:missing variable
+CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.historical.r8i1p1f1.SImon.??..:missing variable
+CMIP6.CMIP.EC-Earth-Consortium.EC-Earth3-Veg.historical.r9i1p1f1.SImon.??..:missing variable
+CMIP6.CMIP.MOHC NERC.HadGEM3-GC31-LL.historical.r1i1p1f3.SImon.??..:missing variable
+CMIP6.CMIP.MOHC NERC.HadGEM3-GC31-LL.historical.r2i1p1f3.SImon.??..:missing variable
+CMIP6.CMIP.MOHC NERC.HadGEM3-GC31-LL.historical.r3i1p1f3.SImon.??..:missing variable
+CMIP6.CMIP.MOHC NERC.HadGEM3-GC31-LL.historical.r4i1p1f3.SImon.??..:missing variable
+CMIP6.CMIP.MOHC.HadGEM3-GC31-MM.historical.r1i1p1f3.SImon.??..:missing variable
+CMIP6.CMIP.MOHC.HadGEM3-GC31-MM.historical.r2i1p1f3.SImon.??..:missing variable
+CMIP6.CMIP.MOHC.HadGEM3-GC31-MM.historical.r3i1p1f3.SImon.??..:missing variable
+CMIP6.CMIP.MOHC.HadGEM3-GC31-MM.historical.r4i1p1f3.SImon.??..:missing variable
+CMIP6.CMIP.MRI.MRI-ESM2-0.historical.r1i1p1f1.SImon.??..:missing variable
+CMIP6.CMIP.MRI.MRI-ESM2-0.historical.r2i1p1f1.SImon.??..:missing variable
+CMIP6.CMIP.MRI.MRI-ESM2-0.historical.r3i1p1f1.SImon.??..:missing variable
+CMIP6.CMIP.MRI.MRI-ESM2-0.historical.r4i1p1f1.SImon.??..:missing variable
+CMIP6.CMIP.MRI.MRI-ESM2-0.historical.r5i1p1f1.SImon.??..:missing variable
+CMIP6.CMIP.NIMS-KMA.UKESM1-0-LL.historical.r10i1p1f2.SImon.??..:missing variable
+CMIP6.CMIP.NIMS-KMA.UKESM1-0-LL.historical.r11i1p1f2.SImon.??..:missing variable
+CMIP6.CMIP.NIMS-KMA.UKESM1-0-LL.historical.r12i1p1f2.SImon.??..:missing variable
+CMIP6.CMIP.NIMS-KMA.UKESM1-0-LL.historical.r1i1p1f2.SImon.??..:missing variable
+CMIP6.CMIP.NIMS-KMA.UKESM1-0-LL.historical.r2i1p1f2.SImon.??..:missing variable
+CMIP6.CMIP.NIMS-KMA.UKESM1-0-LL.historical.r3i1p1f2.SImon.??..:missing variable
+CMIP6.CMIP.NIMS-KMA.UKESM1-0-LL.historical.r4i1p1f2.SImon.??..:missing variable
+CMIP6.CMIP.NIMS-KMA.UKESM1-0-LL.historical.r5i1p1f3.SImon.??..:missing variable
+CMIP6.CMIP.NIMS-KMA.UKESM1-0-LL.historical.r6i1p1f3.SImon.??..:missing variable
+CMIP6.CMIP.NIMS-KMA.UKESM1-0-LL.historical.r7i1p1f3.SImon.??..:missing variable
+CMIP6.CMIP.NIMS-KMA.UKESM1-0-LL.historical.r8i1p1f2.SImon.??..:missing variable
+CMIP6.CMIP.NIMS-KMA.UKESM1-0-LL.historical.r9i1p1f2.SImon.??..:missing variable
+CMIP6.ScenarioMIP.CAS.FGOALS-f3-L.ssp245.r1i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.CAS.FGOALS-g3.ssp245.r1i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp126.r1i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp126.r2i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp126.r3i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp126.r7i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp126.r8i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp126.r9i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp245.r1i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp245.r2i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp245.r3i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp245.r7i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp245.r8i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp245.r9i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp585.r1i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp585.r2i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp585.r3i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp585.r7i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp585.r8i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp585.r9i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.MOHC NERC.HadGEM3-GC31-LL.ssp126.r1i1p1f3.SImon.??..:missing variable
+CMIP6.ScenarioMIP.MOHC NERC.HadGEM3-GC31-LL.ssp245.r1i1p1f3.SImon.??..:missing variable
+CMIP6.ScenarioMIP.MOHC NERC.HadGEM3-GC31-LL.ssp585.r1i1p1f3.SImon.??..:missing variable
+CMIP6.ScenarioMIP.MOHC NERC.HadGEM3-GC31-LL.ssp585.r2i1p1f3.SImon.??..:missing variable
+CMIP6.ScenarioMIP.MOHC NERC.HadGEM3-GC31-LL.ssp585.r3i1p1f3.SImon.??..:missing variable
+CMIP6.ScenarioMIP.MOHC NERC.HadGEM3-GC31-LL.ssp585.r4i1p1f3.SImon.??..:missing variable
+CMIP6.ScenarioMIP.MOHC.HadGEM3-GC31-MM.ssp126.r1i1p1f3.SImon.??..:missing variable
+CMIP6.ScenarioMIP.MOHC.HadGEM3-GC31-MM.ssp585.r1i1p1f3.SImon.??..:missing variable
+CMIP6.ScenarioMIP.MOHC.HadGEM3-GC31-MM.ssp585.r2i1p1f3.SImon.??..:missing variable
+CMIP6.ScenarioMIP.MOHC.HadGEM3-GC31-MM.ssp585.r3i1p1f3.SImon.??..:missing variable
+CMIP6.ScenarioMIP.MOHC.HadGEM3-GC31-MM.ssp585.r4i1p1f3.SImon.??..:missing variable
+CMIP6.ScenarioMIP.MRI.MRI-ESM2-0.ssp126.r1i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.MRI.MRI-ESM2-0.ssp245.r1i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.MRI.MRI-ESM2-0.ssp585.r1i1p1f1.SImon.??..:missing variable
+CMIP6.ScenarioMIP.NIMS-KMA.UKESM1-0-LL.ssp126.r1i1p1f2.SImon.??..:missing variable
+CMIP6.ScenarioMIP.NIMS-KMA.UKESM1-0-LL.ssp126.r2i1p1f2.SImon.??..:missing variable
+CMIP6.ScenarioMIP.NIMS-KMA.UKESM1-0-LL.ssp126.r3i1p1f2.SImon.??..:missing variable
+CMIP6.ScenarioMIP.NIMS-KMA.UKESM1-0-LL.ssp126.r4i1p1f2.SImon.??..:missing variable
+CMIP6.ScenarioMIP.NIMS-KMA.UKESM1-0-LL.ssp126.r8i1p1f2.SImon.??..:missing variable
+CMIP6.ScenarioMIP.NIMS-KMA.UKESM1-0-LL.ssp245.r1i1p1f2.SImon.??..:missing variable
+CMIP6.ScenarioMIP.NIMS-KMA.UKESM1-0-LL.ssp245.r2i1p1f2.SImon.??..:missing variable
+CMIP6.ScenarioMIP.NIMS-KMA.UKESM1-0-LL.ssp245.r3i1p1f2.SImon.??..:missing variable
+CMIP6.ScenarioMIP.NIMS-KMA.UKESM1-0-LL.ssp245.r4i1p1f2.SImon.??..:missing variable
+CMIP6.ScenarioMIP.NIMS-KMA.UKESM1-0-LL.ssp245.r8i1p1f2.SImon.??..:missing variable
+CMIP6.ScenarioMIP.NIMS-KMA.UKESM1-0-LL.ssp585.r1i1p1f2.SImon.??..:missing variable
+CMIP6.ScenarioMIP.NIMS-KMA.UKESM1-0-LL.ssp585.r2i1p1f2.SImon.??..:missing variable
+CMIP6.ScenarioMIP.NIMS-KMA.UKESM1-0-LL.ssp585.r3i1p1f2.SImon.??..:missing variable
+CMIP6.ScenarioMIP.NIMS-KMA.UKESM1-0-LL.ssp585.r4i1p1f2.SImon.??..:missing variable
+CMIP6.ScenarioMIP.NIMS-KMA.UKESM1-0-LL.ssp585.r8i1p1f2.SImon.??..:missing variable

@@ -1,0 +1,52 @@
+CDRMIP.CCCma.CanESM5.1pctCO2-cdr.r1i1p2f1.SImon.zostoga.gn.20190429
+CDRMIP.CSIRO.ACCESS-ESM1-5.1pctCO2-cdr.r1i1p1f1.Omon.zostoga.gn.20191214
+CDRMIP.MIROC.MIROC-ES2L.1pctCO2-cdr.r1i1p1f2.Omon.zostoga.gn.20200622
+CDRMIP.MOHC.UKESM1-0-LL.1pctCO2-cdr.r1i1p1f2.Omon.zostoga.gm.20200425
+CDRMIP.NCAR.CESM2.1pctCO2-cdr.r1i1p1f1.Omon.zostoga.gn.20190613
+CMIP.CSIRO-ARCCSS-BoM.ACCESS-CM2.historical.r1i1p1f1.Amon.tas.gn.
+CMIP.CSIRO-ARCCSS-BoM.ACCESS-CM2.historical.r1i1p1f1.SImon.siarean.gn.
+CMIP.EC-Earth-Consortium.EC-Earth3-Veg.historical.r7i1p1f1.Amon.tas.gr.
+CMIP.EC-Earth-Consortium.EC-Earth3-Veg.historical.r8i1p1f1.Amon.tas.gr.
+CMIP.EC-Earth-Consortium.EC-Earth3-Veg.historical.r9i1p1f1.Amon.tas.gr.
+CMIP.MIROC.MIROC-ES2L.1pctCO2.r1i1p1f2.Omon.zostoga.gn.20190823
+CMIP.MIROC.MIROC-ES2L.piControl.r1i1p1f2.Omon.zostoga.gn.20190823
+CMIP.MOHC NERC.HadGEM3-GC31-LL.historical.r1i1p1f3.Amon.tas.gn.
+CMIP.MOHC NERC.HadGEM3-GC31-LL.historical.r2i1p1f3.Amon.tas.gn.
+CMIP.MOHC NERC.HadGEM3-GC31-LL.historical.r3i1p1f3.Amon.tas.gn.
+CMIP.MOHC NERC.HadGEM3-GC31-LL.historical.r4i1p1f3.Amon.tas.gn.
+CMIP.NCAR.CESM2.1pctCO2.r1i1p1f1.Omon.zostoga.gn.20190425
+CMIP.NCAR.CESM2.piControl.r1i1p1f1.Omon.zostoga.gn.20190320
+ScenarioMIP.CAS.FGOALS-f3-L.ssp245.r1i1p1f1.Omon.thetao.gn.20191008
+ScenarioMIP.CAS.FGOALS-f3-L.ssp370.r1i1p1f1.Omon.thetao.gn.20191008
+ScenarioMIP.CNRM-CERFACS.CNRM-ESM2-1.ssp126.r2i1p1f2.Omon.tos.gr1.20190410
+ScenarioMIP.CNRM-CERFACS.CNRM-ESM2-1.ssp245.r2i1p1f2.Omon.tos.gr1.20190410
+ScenarioMIP.CNRM-CERFACS.CNRM-ESM2-1.ssp370.r2i1p1f2.Omon.tos.gr1.20190410
+ScenarioMIP.CNRM-CERFACS.CNRM-ESM2-1.ssp585.r2i1p1f2.Omon.tos.gr1.20190410
+ScenarioMIP.CSIRO-ARCCSS-BoM.ACCESS-CM2.ssp126.r1i1p1f1.Amon.tas.gn.
+ScenarioMIP.CSIRO-ARCCSS-BoM.ACCESS-CM2.ssp126.r1i1p1f1.SImon.siarean.gn.
+ScenarioMIP.CSIRO-ARCCSS-BoM.ACCESS-CM2.ssp245.r1i1p1f1.Amon.tas.gn.
+ScenarioMIP.CSIRO-ARCCSS-BoM.ACCESS-CM2.ssp245.r1i1p1f1.SImon.siarean.gn.
+ScenarioMIP.CSIRO-ARCCSS-BoM.ACCESS-CM2.ssp585.r1i1p1f1.Amon.tas.gn.
+ScenarioMIP.CSIRO-ARCCSS-BoM.ACCESS-CM2.ssp585.r1i1p1f1.SImon.siarean.gn.
+ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp126.r13i1p1f1.SImon.siconc.gn.
+ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp126.r13i1p1f1.SImon.siconc.gn.20190712
+ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp126.r15i1p1f1.SImon.siconc.gn.
+ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp126.r15i1p1f1.SImon.siconc.gn.20190712
+ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp585.r9i1p1f1.SImon.siconc.gn.
+ScenarioMIP.EC-Earth-Consortium.EC-Earth3.ssp585.r9i1p1f1.SImon.siconc.gn.20190712
+ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp126.r7i1p1f1.Amon.tas.gr.
+ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp126.r8i1p1f1.Amon.tas.gr.
+ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp126.r9i1p1f1.Amon.tas.gr.
+ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp245.r7i1p1f1.Amon.tas.gr.
+ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp245.r8i1p1f1.Amon.tas.gr.
+ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp245.r9i1p1f1.Amon.tas.gr.
+ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp585.r7i1p1f1.Amon.tas.gr.
+ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp585.r8i1p1f1.Amon.tas.gr.
+ScenarioMIP.EC-Earth-Consortium.EC-Earth3-Veg.ssp585.r9i1p1f1.Amon.tas.gr.
+ScenarioMIP.NCAR.CESM2.ssp126.r1i1p1f1.Amon.tas.gn.
+ScenarioMIP.NCAR.CESM2.ssp126.r2i1p1f1.Amon.tas.gn.
+ScenarioMIP.NCAR.CESM2.ssp245.r1i1p1f1.Amon.tas.gn.
+ScenarioMIP.NCAR.CESM2.ssp245.r2i1p1f1.Amon.tas.gn.
+ScenarioMIP.NCAR.CESM2.ssp245.r3i1p1f1.Amon.tas.gn.
+ScenarioMIP.NCAR.CESM2.ssp585.r1i1p1f1.Amon.tas.gn.
+ScenarioMIP.NCAR.CESM2.ssp585.r2i1p1f1.Amon.tas.gn.

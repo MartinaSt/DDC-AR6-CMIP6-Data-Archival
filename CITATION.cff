@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Stockhause"
+  given-names: "Martina"
+  orcid: "http://orcid.org/0000-0001-6636-4972"
+- family-names: "Wachsmann"
+  given-names: "Fabian"
+- family-names: "Krüss"
+  given-names: "Beate"
+title: "DDC AR6 Reference Data Archival of CMIP6 input datasets"
+version: 1.0
+doi: 10.5281/zenodo.xxxx
+date-released: 2023-xx-xx
+url: "https://github.com/..."

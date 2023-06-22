@@ -1,0 +1,410 @@
+[
+    [
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.BCC.bcc-csm1-1-m.historical...Lmon.r1i1p1.20120724.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.BCC.bcc-csm1-1.historical...Lmon.r1i1p1.20120918.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.CCCma.CanESM2.historical...Lmon.r1i1p1.20120410.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.CMCC.CMCC-CM.historical...Lmon.r1i1p1.20170725.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.CMCC.CMCC-CMS.historical...Lmon.r1i1p1.20170725.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.CNRM-CERFACS.CNRM-CM5.historical...Lmon.r1i1p1.20110822.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.CSIRO-BOM.ACCESS1-0.historical...Lmon.r1i1p1.20120115.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.CSIRO-BOM.ACCESS1-3.historical...Lmon.r1i1p1.20120413.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.IPSL.IPSL-CM5A-LR.historical...Lmon.r1i1p1.20120430.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.IPSL.IPSL-CM5A-MR.historical...Lmon.r1i1p1.20120430.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.IPSL.IPSL-CM5B-LR.historical...Lmon.r1i1p1.20130506.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.LASG-CESS.FGOALS-g2.historical...Lmon.r1i1p1.20161204.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.MIROC.MIROC-ESM-CHEM.historical...Lmon.r1i1p1.20120710.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.MIROC.MIROC-ESM.historical...Lmon.r1i1p1.20120710.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.MIROC.MIROC5.historical...Lmon.r1i1p1.20120710.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.MPI-M.MPI-ESM-MR.historical...Lmon.r1i1p1.20120503.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.MRI.MRI-CGCM3.historical...Lmon.r1i1p1.20110915.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.MRI.MRI-ESM1.historical...Lmon.r1i1p1.20130307.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.NASA-GISS.GISS-E2-H.historical...Lmon.r1i1p1.20160426.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.NASA-GISS.GISS-E2-R.historical...Lmon.r1i1p1.20160502.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.NCAR.CCSM4.historical...Lmon.r1i1p1.20140403.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.NCC.NorESM1-M.historical...Lmon.r1i1p1.20120920.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.NCC.NorESM1-ME.historical...Lmon.r1i1p1.20120920.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.NOAA-GFDL.GFDL-CM3.historical...Lmon.r1i1p1.20110601.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.NOAA-GFDL.GFDL-ESM2G.historical...Lmon.r1i1p1.20110601.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.NOAA-GFDL.GFDL-ESM2M.historical...Lmon.r1i1p1.20110601.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.NSF-DOE-NCAR.CESM1-BGC.historical...Lmon.r1i1p1.20140402.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.NSF-DOE-NCAR.CESM1-CAM5.historical...Lmon.r1i1p1.20130302.tsl"
+        }, 
+        {
+            "status": "new", 
+            "checksum_nc": [], 
+            "tracking_id_ds": "", 
+            "tracking_id_nc": [], 
+            "date": "2022-01-23", 
+            "report_figures": [
+                "9.22"
+            ], 
+            "report_subpanels": [
+                "a"
+            ], 
+            "data_ref_syntax": "cmip5.output1.NSF-DOE-NCAR.CESM1-WACCM.historical...Lmon.r1i1p1.20140402.tsl"
+        }
+    ]
+]
