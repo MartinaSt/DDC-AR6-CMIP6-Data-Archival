@@ -49,7 +49,9 @@ The corrected CMIP6 input dataset list cmip6_list_2022-07-11.json is updated wit
    - input files: cmip6_list_2022-07-11.json and cmip6_list_data_ref_syntax_drs-candidates-by-version_2022-08-17.json
    - output files:  cmip6_list_2022-08-17.json; 855 datasets were identified, after merging dublicates 680 datasets were updated/added to the CMIP6 input dataset list (all are available)
 
-The overview of the changes applied in steps 4. and 5. to the input dataset list cmip6_list_2022-07-11.json to create the resulting cmip6_list_2022-08-17.json is provided in: `DDC_cmip6_overview.csv`. This CMIP6 input dataset cmip6_list_2022-08-17.json is used for merging with the WGI-requested variable list. It contains 18956 corrected and available CMIP6 input datasets.
+The result contains 18956 corrected and available CMIP6 input datasets. 52 dataset duplicates caused by version changes require special treatment. 
+
+An overview oover the changes applied in steps 4. and 5. to the input dataset list cmip6_list_2022-07-11.json to create the resulting cmip6_list_2022-08-17.json is provided in: `DDC_cmip6_overview.csv`. The CMIP6 input dataset list in column 'DDC_AR6_Archive' is used for merging with the WGI-requested variable list. 
 
 **7. Add data usage information to the metadata:**
 
