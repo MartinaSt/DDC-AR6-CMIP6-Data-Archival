@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.xxx.svg)](https://doi.org/10.5281/zenodo.xxx)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.8109876.svg)](https://doi.org/10.5281/zenodo.8109876)
 
 # DDC-AR6-CMIP6-Data-Archival
 
