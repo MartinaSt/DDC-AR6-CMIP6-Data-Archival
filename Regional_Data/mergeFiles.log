@@ -1,0 +1,1444 @@
+FILE: C6SPDWME2s585r2111Amprgn90710_1-18.zip
+cdo -s mergetime *.nc pr_Amon_MPI-ESM1-2-HR_ssp585_r2i1p1f1_gn_201501-210012.nc
+FILE: C6SPAWAWMs370r111Amuasgn90529_1-86.zip
+cdo -s mergetime *.nc uas_Amon_AWI-CM-1-1-MR_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPAWAWMs585r111Amhussgn90529_1-86.zip
+cdo -s mergetime *.nc huss_Amon_AWI-CM-1-1-MR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNRCESs370r4111Amtmagn00528_1-2.zip
+cdo -s mergetime *.nc tasmax_Amon_CESM2_ssp370_r4i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir4111Amtasgn80828_1-4.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_historical_r4i1p1f1_gn_185001-201412.nc
+FILE: C6CMINIC0hir111AmvasUx90610_1-2.zip
+cdo -s mergetime *.nc vas_Amon_INM-CM5-0_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6CMGIGEGhir7112Amuasgn90903_1-4.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_historical_r7i1p1f2_gn_185001-201412.nc
+FILE: C6SPCIIITs245r111Amvasgn00915_1-9.zip
+cdo -s mergetime *.nc vas_Amon_IITM-ESM_ssp245_r1i1p1f1_gn_201501-209912.nc
+FILE: C6SPNRCESs245r4111Amtmgn00528_1-2.zip
+cdo -s mergetime *.nc tasmin_Amon_CESM2_ssp245_r4i1p1f1_gn_201501-210012.nc
+FILE: C6SPGIGE1s245r2131Amtasgn00115_1-10.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_ssp245_r2i1p3f1_gn_201501-250012.nc
+FILE: C6SPCIIITs370r111Ampslgn00915_1-9.zip
+cdo -s mergetime *.nc psl_Amon_IITM-ESM_ssp370_r1i1p1f1_gn_201501-209812.nc
+FILE: C6SPGIGE1s245r5131Amrsgn00115_1-10.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_ssp245_r5i1p3f1_gn_201501-250012.nc
+FILE: C6SPEEE3s245r111Amtasld00310_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPNRCESWs245r2111Amtasgn00224_1-2.zip
+cdo -s mergetime *.nc tas_Amon_CESM2-WACCM_ssp245_r2i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir3111Ampslgn80828_1-4.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_historical_r3i1p1f1_gn_185001-201412.nc
+FILE: C6SPAWAWMs370r111Ampslgn90529_1-86.zip
+cdo -s mergetime *.nc psl_Amon_AWI-CM-1-1-MR_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPEEE3s585r111Amuasld00310_1-86.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPDKME2s245r2111Amtmagn90710_1-18.zip
+cdo -s mergetime *.nc tasmax_Amon_MPI-ESM1-2-HR_ssp245_r2i1p1f1_gn_201501-210012.nc
+FILE: C6CMMIMIhir111Amuasgn81212_1-2.zip
+cdo -s mergetime *.nc uas_Amon_MIROC6_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir5112Amrsgn90903_1-4.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_historical_r5i1p1f2_gn_185001-201412.nc
+FILE: C6SPGIGE1s245r5131Amuasgn00115_1-10.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_ssp245_r5i1p3f1_gn_201501-250012.nc
+FILE: C6CMEEE3hir111Amtasld00310_1-165.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6SPCCCEs585r111Amvasgn90429_1-3.zip
+cdo -s mergetime *.nc vas_Amon_CanESM5_ssp585_r1i1p1f1_gn_201501-230012.nc
+FILE: C6CMEEEVEhir111Amtasld90605_1-165.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6SPGIGE1s245r3131Amtasgn00115_1-10.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_ssp245_r3i1p3f1_gn_201501-250012.nc
+FILE: C6SPNRCESs245r4111Amtasgn00528_1-2.zip
+cdo -s mergetime *.nc tas_Amon_CESM2_ssp245_r4i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir2112Amuasgn90903_1-4.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_historical_r2i1p1f2_gn_185001-201412.nc
+FILE: C6SPCCCEs585r111Amtasgn90429_1-3.zip
+cdo -s mergetime *.nc tas_Amon_CanESM5_ssp585_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPEEE3s245r111Amprld00310_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPDKME2s245r2111Amrsgn90710_1-18.zip
+cdo -s mergetime *.nc rsds_Amon_MPI-ESM1-2-HR_ssp245_r2i1p1f1_gn_201501-210012.nc
+FILE: C6SPDKME2s585r111Amprgn90710_1-18.zip
+cdo -s mergetime *.nc pr_Amon_MPI-ESM1-2-HR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir7112Amprgn90903_1-4.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_historical_r7i1p1f2_gn_185001-201412.nc
+FILE: C6SPCIIITs585r111Amvasgn00915_1-9.zip
+cdo -s mergetime *.nc vas_Amon_IITM-ESM_ssp585_r1i1p1f1_gn_201501-209912.nc
+FILE: C6SPCIIITs585r111Amtasgn00915_1-9.zip
+cdo -s mergetime *.nc tas_Amon_IITM-ESM_ssp585_r1i1p1f1_gn_201501-209912.nc
+FILE: C6CMEEEVEhir111Amprld11207_1-165.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6SPGIGE1s245r5131Amtmagn00115_1-10.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_ssp245_r5i1p3f1_gn_201501-250012.nc
+FILE: C6SPCIIITs126r111Ampslgn00915_1-9.zip
+cdo -s mergetime *.nc psl_Amon_IITM-ESM_ssp126_r1i1p1f1_gn_201501-209812.nc
+FILE: C6CMGIGEGhir2111Amtasgn80827_1-4.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_historical_r2i1p1f1_gn_185001-201412.nc
+FILE: C6SPCCCEs585r111Amrsgn90429_1-3.zip
+cdo -s mergetime *.nc rsds_Amon_CanESM5_ssp585_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPCIIITs126r111Amtmgn01112_1-9.zip
+cdo -s mergetime *.nc tasmin_Amon_IITM-ESM_ssp126_r1i1p1f1_gn_201501-209912.nc
+FILE: C6CMGIGEGhir812Amrsgn90903_1-4.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_historical_r8i1p1f2_gn_185001-201412.nc
+FILE: C6CMGIGEGhir7112Amrsgn90903_1-4.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_historical_r7i1p1f2_gn_185001-201412.nc
+FILE: C6SPEEE3s585r111Amtasld00310_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6CMCIIIThir111Amrsgn91226_1-17.zip
+cdo -s mergetime *.nc rsds_Amon_IITM-ESM_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6CMEEE3hir111Amrsld00310_1-165.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6CMGIGEGhir5112Amuasgn90903_1-4.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_historical_r5i1p1f2_gn_185001-201412.nc
+FILE: C6CMMXME2hir111Amtasgn90710_1-33.zip
+cdo -s mergetime *.nc tas_Amon_MPI-ESM1-2-HR_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPNRCESWs585r111Amrsgn00702_1-5.zip
+cdo -s mergetime *.nc rsds_Amon_CESM2-WACCM_ssp585_r1i1p1f1_gn_201501-229912.nc
+FILE: C6SPDKME2s245r2111Amprgn90710_1-18.zip
+cdo -s mergetime *.nc pr_Amon_MPI-ESM1-2-HR_ssp245_r2i1p1f1_gn_201501-210012.nc
+FILE: C6SPEEE3s585r6111Amtasld90710_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3_ssp585_r6i1p1f1_gr_201501-210012.nc
+FILE: C6CMMXME2hir111Amhussgn90710_1-33.zip
+cdo -s mergetime *.nc huss_Amon_MPI-ESM1-2-HR_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPDKME2s585r111Amtasgn90710_1-18.zip
+cdo -s mergetime *.nc tas_Amon_MPI-ESM1-2-HR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPDWME2s585r2111Amtmagn90710_1-18.zip
+cdo -s mergetime *.nc tasmax_Amon_MPI-ESM1-2-HR_ssp585_r2i1p1f1_gn_201501-210012.nc
+FILE: C6SPDKME2s245r2111Ampslgn90710_1-18.zip
+cdo -s mergetime *.nc psl_Amon_MPI-ESM1-2-HR_ssp245_r2i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir5111Amtmagn80828_1-4.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_historical_r5i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir6112Ampslgn90903_1-4.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_historical_r6i1p1f2_gn_185001-201412.nc
+FILE: C6CMGIGEGhir812Amuasgn90903_1-4.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_historical_r8i1p1f2_gn_185001-201412.nc
+FILE: C6SPNRCESWs245r2111Amtmgn00224_1-2.zip
+cdo -s mergetime *.nc tasmin_Amon_CESM2-WACCM_ssp245_r2i1p1f1_gn_201501-210012.nc
+FILE: C6SPDKME2s245r111Amtasgn90710_1-18.zip
+cdo -s mergetime *.nc tas_Amon_MPI-ESM1-2-HR_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPEEE3s585r9111Amrsld00201_1-86.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3_ssp585_r9i1p1f1_gr_201501-210012.nc
+FILE: C6CMGIGEGhir5112Amtmagn90903_1-4.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_historical_r5i1p1f2_gn_185001-201412.nc
+FILE: C6SPCIIITs126r111Amvasgn01112_1-9.zip
+cdo -s mergetime *.nc vas_Amon_IITM-ESM_ssp126_r1i1p1f1_gn_201501-209912.nc
+FILE: C6SPDKME2s585r111Amuasgn90710_1-18.zip
+cdo -s mergetime *.nc uas_Amon_MPI-ESM1-2-HR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPEEE3s585r6111Amprld00201_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3_ssp585_r6i1p1f1_gr_201501-210012.nc
+FILE: C6SPGIGE1s245r5131Amprgn00115_1-10.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_ssp245_r5i1p3f1_gn_201501-250012.nc
+FILE: C6CMGIGEGhir2111Amrsgn80827_1-4.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_historical_r2i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir3111Amprgn80828_1-4.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_historical_r3i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir8111Amprgn80830_1-4.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_historical_r8i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir4112Amtasgn90903_1-4.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_historical_r4i1p1f2_gn_185001-201412.nc
+FILE: C6CMGIGEGhir8111Amtasgn80830_1-4.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_historical_r8i1p1f1_gn_185001-201412.nc
+FILE: C6CMINIC0hir111AmhussUx90610_1-2.zip
+cdo -s mergetime *.nc huss_Amon_INM-CM5-0_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6CMMXML2hir111Amtmagn90710_1-9.zip
+cdo -s mergetime *.nc tasmax_Amon_MPI-ESM1-2-LR_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir5111Amrsgn80828_1-4.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_historical_r5i1p1f1_gn_185001-201412.nc
+FILE: C6CMCIIIThir111Amprgn91226_1-17.zip
+cdo -s mergetime *.nc pr_Amon_IITM-ESM_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPCCCEs585r111Amprgn90429_1-3.zip
+cdo -s mergetime *.nc pr_Amon_CanESM5_ssp585_r1i1p1f1_gn_201501-230012.nc
+FILE: C6CMGIGEGhir6111Amuasgn80829_1-4.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_historical_r6i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir3111Amuasgn80828_1-4.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_historical_r3i1p1f1_gn_185001-201412.nc
+FILE: C6SPGIGE1s245llAmtmagn00115_1-10.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_ssp245_r1i1p3f1_gn_201501-250012.nc
+FILE: C6CMGIGEGhir6111Amrsgn80829_1-4.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_historical_r6i1p1f1_gn_185001-201412.nc
+FILE: C6SPAWAWMs585r111Ampslgn90529_1-86.zip
+cdo -s mergetime *.nc psl_Amon_AWI-CM-1-1-MR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMMIMIhir111Amtasgn81212_1-2.zip
+cdo -s mergetime *.nc tas_Amon_MIROC6_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPNRCESWs245r2111Ampslgn00224_1-2.zip
+cdo -s mergetime *.nc psl_Amon_CESM2-WACCM_ssp245_r2i1p1f1_gn_201501-210012.nc
+FILE: C6SPAWAWMs585r111Amvasgn90529_1-86.zip
+cdo -s mergetime *.nc vas_Amon_AWI-CM-1-1-MR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCIIITs370r111Amhussgn00915_1-9.zip
+cdo -s mergetime *.nc huss_Amon_IITM-ESM_ssp370_r1i1p1f1_gn_201501-209812.nc
+FILE: C6SPAWAWMs370r111Amprgn90529_1-86.zip
+cdo -s mergetime *.nc pr_Amon_AWI-CM-1-1-MR_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir3112Amtasgn90903_1-4.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_historical_r3i1p1f2_gn_185001-201412.nc
+FILE: C6SPGIGE1s245llAmpslgn00115_1-10.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_ssp245_r1i1p3f1_gn_201501-250012.nc
+FILE: C6CMMIMIhir111Amvasgn81212_1-2.zip
+cdo -s mergetime *.nc vas_Amon_MIROC6_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPNRCESs370r4111Amtasgn00528_1-2.zip
+cdo -s mergetime *.nc tas_Amon_CESM2_ssp370_r4i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir6111Ampslgn80829_1-4.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_historical_r6i1p1f1_gn_185001-201412.nc
+FILE: C6CMINIC8hir111AmprUx90530_1-3.zip
+cdo -s mergetime *.nc pr_Amon_INM-CM4-8_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6CMGIGEGhir812Ampslgn90903_1-4.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_historical_r8i1p1f2_gn_185001-201412.nc
+FILE: C6SPDKME2s585r111Amtmagn90710_1-18.zip
+cdo -s mergetime *.nc tasmax_Amon_MPI-ESM1-2-HR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNRCESs370r4111Ampslgn00528_1-2.zip
+cdo -s mergetime *.nc psl_Amon_CESM2_ssp370_r4i1p1f1_gn_201501-210012.nc
+FILE: C6SPNRCESWs370r111Amrsgn90815_1-2.zip
+cdo -s mergetime *.nc rsds_Amon_CESM2-WACCM_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNRCESWs370r111Ampslgn90815_1-2.zip
+cdo -s mergetime *.nc psl_Amon_CESM2-WACCM_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir3112Ampslgn90903_1-4.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_historical_r3i1p1f2_gn_185001-201412.nc
+FILE: C6SPNRCESs370r4111Amrsgn00528_1-2.zip
+cdo -s mergetime *.nc rsds_Amon_CESM2_ssp370_r4i1p1f1_gn_201501-210012.nc
+FILE: C6SPCIIITs126r111Ampslgn01112_1-9.zip
+cdo -s mergetime *.nc psl_Amon_IITM-ESM_ssp126_r1i1p1f1_gn_201501-209912.nc
+FILE: C6SPEEE3s585r111Ampslld00310_1-86.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6CMGIGEGhir3112Amtmagn90903_1-4.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_historical_r3i1p1f2_gn_185001-201412.nc
+FILE: C6CMGIGEGhir5111Amuasgn80828_1-4.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_historical_r5i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir1112Amuasgn90903_1-4.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_historical_r1i1p1f2_gn_185001-201412.nc
+FILE: C6CMGIGEGhir9112Amrsgn90903_1-4.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_historical_r9i1p1f2_gn_185001-201412.nc
+FILE: C6SPNRCESs126r4111Amprgn00528_1-2.zip
+cdo -s mergetime *.nc pr_Amon_CESM2_ssp126_r4i1p1f1_gn_201501-210012.nc
+FILE: C6SPEEE3s245r111Ampslld00310_1-86.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6CMGIGEGhir8111Ampslgn80830_1-4.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_historical_r8i1p1f1_gn_185001-201412.nc
+FILE: C6SPAWAWMs585r111Amuasgn90529_1-86.zip
+cdo -s mergetime *.nc uas_Amon_AWI-CM-1-1-MR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir1112Ampslgn90903_1-4.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_historical_r1i1p1f2_gn_185001-201412.nc
+FILE: C6SPEEE3s585r6111Amuasld00201_1-86.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3_ssp585_r6i1p1f1_gr_201501-210012.nc
+FILE: C6CMGIGEGhir6112Amtasgn90903_1-4.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_historical_r6i1p1f2_gn_185001-201412.nc
+FILE: C6CMGIGEGhir1112Amtasgn90903_1-4.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_historical_r1i1p1f2_gn_185001-201412.nc
+FILE: C6SPCIIITs585r111Amhussgn00915_1-9.zip
+cdo -s mergetime *.nc huss_Amon_IITM-ESM_ssp585_r1i1p1f1_gn_201501-209912.nc
+FILE: C6SPCIIITs370r111Amvasgn00915_1-9.zip
+cdo -s mergetime *.nc vas_Amon_IITM-ESM_ssp370_r1i1p1f1_gn_201501-209812.nc
+FILE: C6SPEEE3s585r9111Amtasld90710_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3_ssp585_r9i1p1f1_gr_201501-210012.nc
+FILE: C6SPNRCESWs245r2111Amprgn00224_1-2.zip
+cdo -s mergetime *.nc pr_Amon_CESM2-WACCM_ssp245_r2i1p1f1_gn_201501-210012.nc
+FILE: C6SPNRCESs245r4111Ampslgn00528_1-2.zip
+cdo -s mergetime *.nc psl_Amon_CESM2_ssp245_r4i1p1f1_gn_201501-210012.nc
+FILE: C6CMCIIIThir111Amtasgn91226_1-17.zip
+cdo -s mergetime *.nc tas_Amon_IITM-ESM_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPGIGE1s245llAmuasgn00115_1-10.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_ssp245_r1i1p3f1_gn_201501-250012.nc
+FILE: C6SPEEE3s585r9111Amuasld00201_1-86.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3_ssp585_r9i1p1f1_gr_201501-210012.nc
+FILE: C6CMGIGEGhir2111Amprgn80827_1-4.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_historical_r2i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir1112Amrsgn90903_1-4.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_historical_r1i1p1f2_gn_185001-201412.nc
+FILE: C6SPGIGE1s245r4131Ampslgn00115_1-10.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_ssp245_r4i1p3f1_gn_201501-250012.nc
+FILE: C6CMMXME2hir111Amrsgn90710_1-33.zip
+cdo -s mergetime *.nc rsds_Amon_MPI-ESM1-2-HR_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPAWAWMs585r111Amrsgn90529_1-86.zip
+cdo -s mergetime *.nc rsds_Amon_AWI-CM-1-1-MR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCIIITs585r111Amprgn00915_1-9.zip
+cdo -s mergetime *.nc pr_Amon_IITM-ESM_ssp585_r1i1p1f1_gn_201501-209912.nc
+FILE: C6SPNRCESs585r4111Ampslgn00528_1-2.zip
+cdo -s mergetime *.nc psl_Amon_CESM2_ssp585_r4i1p1f1_gn_201501-210012.nc
+FILE: C6SPEEE3s585r9111Amtmald00201_1-86.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3_ssp585_r9i1p1f1_gr_201501-210012.nc
+FILE: C6CMCIIIThir111Amvasgn91226_1-17.zip
+cdo -s mergetime *.nc vas_Amon_IITM-ESM_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPNRCESWs585r111Amhussgn00702_1-5.zip
+cdo -s mergetime *.nc huss_Amon_CESM2-WACCM_ssp585_r1i1p1f1_gn_201501-229912.nc
+FILE: C6SPNRCESWs245r2111Amtmagn00224_1-2.zip
+cdo -s mergetime *.nc tasmax_Amon_CESM2-WACCM_ssp245_r2i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir8111Amrsgn80830_1-4.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_historical_r8i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir3112Amprgn90903_1-4.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_historical_r3i1p1f2_gn_185001-201412.nc
+FILE: C6SPCIIITs126r111Amprgn01112_1-10.zip
+cdo -s mergetime *.nc pr_Amon_IITM-ESM_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNRCESs245r4111Amhussgn00528_1-2.zip
+cdo -s mergetime *.nc huss_Amon_CESM2_ssp245_r4i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir9111Ampslgn80830_1-4.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_historical_r9i1p1f1_gn_185001-201412.nc
+FILE: C6SPGIGE1s245llAmrsgn00115_1-10.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_ssp245_r1i1p3f1_gn_201501-250012.nc
+FILE: C6SPEEE3s585r9111Amprld00201_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3_ssp585_r9i1p1f1_gr_201501-210012.nc
+FILE: C6SPCIIITs126r111Amtasgn00915_1-9.zip
+cdo -s mergetime *.nc tas_Amon_IITM-ESM_ssp126_r1i1p1f1_gn_201501-209812.nc
+FILE: C6CMMXML2hir111Amhussgn90710_1-9.zip
+cdo -s mergetime *.nc huss_Amon_MPI-ESM1-2-LR_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPNRCESs126r4111Amtmgn00528_1-2.zip
+cdo -s mergetime *.nc tasmin_Amon_CESM2_ssp126_r4i1p1f1_gn_201501-210012.nc
+FILE: C6SPCCCEs585r111Ampslgn90429_1-3.zip
+cdo -s mergetime *.nc psl_Amon_CanESM5_ssp585_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPDKME2s245r111Amrsgn90710_1-18.zip
+cdo -s mergetime *.nc rsds_Amon_MPI-ESM1-2-HR_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir5112Amprgn90903_1-4.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_historical_r5i1p1f2_gn_185001-201412.nc
+FILE: C6CMGIGEGhir2112Amtasgn90903_1-4.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_historical_r2i1p1f2_gn_185001-201412.nc
+FILE: C6SPGIGE1s245llAmtasgn00115_1-10.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_ssp245_r1i1p3f1_gn_201501-250012.nc
+FILE: C6SPGIGE1s245r3131Ampslgn00115_1-10.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_ssp245_r3i1p3f1_gn_201501-250012.nc
+FILE: C6SPNRCESs126r4111Amrsgn00528_1-2.zip
+cdo -s mergetime *.nc rsds_Amon_CESM2_ssp126_r4i1p1f1_gn_201501-210012.nc
+FILE: C6SPCIIITs245r111Amprgn00915_1-9.zip
+cdo -s mergetime *.nc pr_Amon_IITM-ESM_ssp245_r1i1p1f1_gn_201501-209912.nc
+FILE: C6SPDKME2s245r2111Amtasgn90710_1-18.zip
+cdo -s mergetime *.nc tas_Amon_MPI-ESM1-2-HR_ssp245_r2i1p1f1_gn_201501-210012.nc
+FILE: C6SPDWME2s585r2111Ampslgn90710_1-18.zip
+cdo -s mergetime *.nc psl_Amon_MPI-ESM1-2-HR_ssp585_r2i1p1f1_gn_201501-210012.nc
+FILE: C6SPNRCESs585r4111Amrsgn00528_1-2.zip
+cdo -s mergetime *.nc rsds_Amon_CESM2_ssp585_r4i1p1f1_gn_201501-210012.nc
+FILE: C6SPDKME2s585r111Ampslgn90710_1-18.zip
+cdo -s mergetime *.nc psl_Amon_MPI-ESM1-2-HR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPGIGE1s245r4131Amtmagn00115_1-10.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_ssp245_r4i1p3f1_gn_201501-250012.nc
+FILE: C6SPAWAWMs585r111Amtasgn90529_1-86.zip
+cdo -s mergetime *.nc tas_Amon_AWI-CM-1-1-MR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNRCESWs585r111Amtasgn00702_1-5.zip
+cdo -s mergetime *.nc tas_Amon_CESM2-WACCM_ssp585_r1i1p1f1_gn_201501-229912.nc
+FILE: C6SPEEE3s585r111Amtmald00310_1-86.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEE3s245r111Amuasld00310_1-86.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6CMINIC0hir111AmprUx90610_1-2.zip
+cdo -s mergetime *.nc pr_Amon_INM-CM5-0_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6CMGIGEGhir2111Amuasgn80827_1-4.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_historical_r2i1p1f1_gn_185001-201412.nc
+FILE: C6SPCIIITs126r111Amuasgn01112_1-9.zip
+cdo -s mergetime *.nc uas_Amon_IITM-ESM_ssp126_r1i1p1f1_gn_201501-209912.nc
+FILE: C6CMGIGEGhir5111Amprgn80828_1-4.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_historical_r5i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir9112Amprgn90903_1-4.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_historical_r9i1p1f2_gn_185001-201412.nc
+FILE: C6CMGIGEGhir4111Amuasgn80828_1-4.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_historical_r4i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir7111Amrsgn80829_1-4.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_historical_r7i1p1f1_gn_185001-201412.nc
+FILE: C6SPAWAWMs370r111Amtmagn90529_1-86.zip
+cdo -s mergetime *.nc tasmax_Amon_AWI-CM-1-1-MR_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMINIC0hir111AmtasUx90610_1-2.zip
+cdo -s mergetime *.nc tas_Amon_INM-CM5-0_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6SPAWAWMs370r111Amhussgn90529_1-86.zip
+cdo -s mergetime *.nc huss_Amon_AWI-CM-1-1-MR_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir6112Amtmagn90903_1-4.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_historical_r6i1p1f2_gn_185001-201412.nc
+FILE: C6CMGIGEGhir7111Amuasgn80829_1-4.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_historical_r7i1p1f1_gn_185001-201412.nc
+FILE: C6CMINIC0hir111AmrsUx90610_1-2.zip
+cdo -s mergetime *.nc rsds_Amon_INM-CM5-0_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6CMGIGEGhir3111Amtmagn80828_1-4.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_historical_r3i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir7111Amtmagn80829_1-4.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_historical_r7i1p1f1_gn_185001-201412.nc
+FILE: C6CMINIC0hir111AmtmUx90610_1-2.zip
+cdo -s mergetime *.nc tasmin_Amon_INM-CM5-0_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6SPCIIITs585r111Amuasgn00915_1-9.zip
+cdo -s mergetime *.nc uas_Amon_IITM-ESM_ssp585_r1i1p1f1_gn_201501-209912.nc
+FILE: C6CMGIGEGhir6112Amprgn90903_1-4.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_historical_r6i1p1f2_gn_185001-201412.nc
+FILE: C6SPCIIITs370r111Amrsgn00915_1-9.zip
+cdo -s mergetime *.nc rsds_Amon_IITM-ESM_ssp370_r1i1p1f1_gn_201501-209812.nc
+FILE: C6SPEEE3s585r6111Amrsld00201_1-86.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3_ssp585_r6i1p1f1_gr_201501-210012.nc
+FILE: C6CMGIGEGhir7111Amtasgn80829_1-4.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_historical_r7i1p1f1_gn_185001-201412.nc
+FILE: C6SPAWAWMs370r111Amrsgn90529_1-86.zip
+cdo -s mergetime *.nc rsds_Amon_AWI-CM-1-1-MR_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMMIMIhir111Amtmagn81212_1-2.zip
+cdo -s mergetime *.nc tasmax_Amon_MIROC6_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPNRCESWs585r111Amprgn00702_1-5.zip
+cdo -s mergetime *.nc pr_Amon_CESM2-WACCM_ssp585_r1i1p1f1_gn_201501-229912.nc
+FILE: C6SPDWME2s585r2111Amrsgn90710_1-18.zip
+cdo -s mergetime *.nc rsds_Amon_MPI-ESM1-2-HR_ssp585_r2i1p1f1_gn_201501-210012.nc
+FILE: C6SPNRCESs245r4111Amrsgn00528_1-2.zip
+cdo -s mergetime *.nc rsds_Amon_CESM2_ssp245_r4i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir2112Ampslgn90903_1-4.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_historical_r2i1p1f2_gn_185001-201412.nc
+FILE: C6CMEEE3hir111Ampslld00310_1-165.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6SPEEE3s585r9111Amtasld00201_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3_ssp585_r9i1p1f1_gr_201501-210012.nc
+FILE: C6CMGIGEGhir4111Amprgn80828_1-4.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_historical_r4i1p1f1_gn_185001-201412.nc
+FILE: C6SPEEE3s245r111Amprld90701_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6CMMIMIhir111Amtmgn81212_1-2.zip
+cdo -s mergetime *.nc tasmin_Amon_MIROC6_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPNRCESs245r4111Amtmagn00528_1-2.zip
+cdo -s mergetime *.nc tasmax_Amon_CESM2_ssp245_r4i1p1f1_gn_201501-210012.nc
+FILE: C6SPNRCESs585r4111Amtasgn00528_1-2.zip
+cdo -s mergetime *.nc tas_Amon_CESM2_ssp585_r4i1p1f1_gn_201501-210012.nc
+FILE: C6SPCCCEs585r111Amtmagn90429_1-3.zip
+cdo -s mergetime *.nc tasmax_Amon_CanESM5_ssp585_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPGIGE1s245llAmprgn00115_1-10.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_ssp245_r1i1p3f1_gn_201501-250012.nc
+FILE: C6CMCIIIThir111Ampslgn91226_1-17.zip
+cdo -s mergetime *.nc psl_Amon_IITM-ESM_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir1112Amtmagn90903_1-4.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_historical_r1i1p1f2_gn_185001-201412.nc
+FILE: C6CMCIIIThir111Amhussgn91226_1-17.zip
+cdo -s mergetime *.nc huss_Amon_IITM-ESM_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPCIIITs370r111Amtasgn00915_1-10.zip
+cdo -s mergetime *.nc tas_Amon_IITM-ESM_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMMXME2hir111Ampslgn90710_1-33.zip
+cdo -s mergetime *.nc psl_Amon_MPI-ESM1-2-HR_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6CMINIC8hir111AmtmUx90530_1-3.zip
+cdo -s mergetime *.nc tasmin_Amon_INM-CM4-8_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6CMMIMIhir111Ampslgn81212_1-2.zip
+cdo -s mergetime *.nc psl_Amon_MIROC6_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPCIIITs585r111Ampslgn00915_1-9.zip
+cdo -s mergetime *.nc psl_Amon_IITM-ESM_ssp585_r1i1p1f1_gn_201501-209912.nc
+FILE: C6SPNRCESWs585r111Ampslgn00702_1-5.zip
+cdo -s mergetime *.nc psl_Amon_CESM2-WACCM_ssp585_r1i1p1f1_gn_201501-229912.nc
+FILE: C6CMGIGEGhir5112Amtasgn90903_1-4.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_historical_r5i1p1f2_gn_185001-201412.nc
+FILE: C6CMINIC0hir111AmuasUx90610_1-2.zip
+cdo -s mergetime *.nc uas_Amon_INM-CM5-0_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6CMCIIIThir111Amuasgn91226_1-17.zip
+cdo -s mergetime *.nc uas_Amon_IITM-ESM_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6CMEEEVEhir111Amtasld11207_1-165.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6SPCIIITs245r111Ampslgn00915_1-9.zip
+cdo -s mergetime *.nc psl_Amon_IITM-ESM_ssp245_r1i1p1f1_gn_201501-209912.nc
+FILE: C6SPNRCESs126r4111Amhussgn00528_1-2.zip
+cdo -s mergetime *.nc huss_Amon_CESM2_ssp126_r4i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir6111Amtasgn80829_1-4.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_historical_r6i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir4112Amprgn90903_1-4.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_historical_r4i1p1f2_gn_185001-201412.nc
+FILE: C6CMGIGEGhir4111Amrsgn80828_1-4.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_historical_r4i1p1f1_gn_185001-201412.nc
+FILE: C6SPGIGE1s245r4131Amuasgn00115_1-10.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_ssp245_r4i1p3f1_gn_201501-250012.nc
+FILE: C6CMINIC0hir111AmpslUx90610_1-2.zip
+cdo -s mergetime *.nc psl_Amon_INM-CM5-0_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6SPAWAWMs370r111Amtasgn90529_1-86.zip
+cdo -s mergetime *.nc tas_Amon_AWI-CM-1-1-MR_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCIIITs245r111Amuasgn00915_1-9.zip
+cdo -s mergetime *.nc uas_Amon_IITM-ESM_ssp245_r1i1p1f1_gn_201501-209912.nc
+FILE: C6CMGIGEGhir2112Amprgn90903_1-4.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_historical_r2i1p1f2_gn_185001-201412.nc
+FILE: C6SPGIGE1s245r3131Amuasgn00115_1-10.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_ssp245_r3i1p3f1_gn_201501-250012.nc
+FILE: C6CMEEEVEhir111Ampslld00225_1-165.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3-Veg_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6SPDWME2s585r2111Amtasgn90710_1-18.zip
+cdo -s mergetime *.nc tas_Amon_MPI-ESM1-2-HR_ssp585_r2i1p1f1_gn_201501-210012.nc
+FILE: C6CMMXML2hir111Amtasgn90710_1-9.zip
+cdo -s mergetime *.nc tas_Amon_MPI-ESM1-2-LR_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir4112Amuasgn90903_1-4.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_historical_r4i1p1f2_gn_185001-201412.nc
+FILE: C6SPNRCESs585r4111Amprgn00528_1-2.zip
+cdo -s mergetime *.nc pr_Amon_CESM2_ssp585_r4i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir6112Amrsgn90903_1-4.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_historical_r6i1p1f2_gn_185001-201412.nc
+FILE: C6SPEEE3s585r6111Amtmald00201_1-86.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3_ssp585_r6i1p1f1_gr_201501-210012.nc
+FILE: C6CMGIGEGhir812Amprgn90903_1-4.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_historical_r8i1p1f2_gn_185001-201412.nc
+FILE: C6SPCIIITs585r111Amrsgn00915_1-9.zip
+cdo -s mergetime *.nc rsds_Amon_IITM-ESM_ssp585_r1i1p1f1_gn_201501-209912.nc
+FILE: C6SPGIGE1s245r3131Amprgn00115_1-10.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_ssp245_r3i1p3f1_gn_201501-250012.nc
+FILE: C6CMGIGEGhir9112Amuasgn90903_1-4.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_historical_r9i1p1f2_gn_185001-201412.nc
+FILE: C6SPGIGE1s245r2131Ampslgn00115_1-10.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_ssp245_r2i1p3f1_gn_201501-250012.nc
+FILE: C6CMINIC8hir111AmhussUx90530_1-3.zip
+cdo -s mergetime *.nc huss_Amon_INM-CM4-8_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6SPAWAWMs370r111Amtmgn90529_1-86.zip
+cdo -s mergetime *.nc tasmin_Amon_AWI-CM-1-1-MR_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCIIITs126r111Amhussgn01112_1-9.zip
+cdo -s mergetime *.nc huss_Amon_IITM-ESM_ssp126_r1i1p1f1_gn_201501-209912.nc
+FILE: C6CMINIC8hir111AmrsUx90530_1-3.zip
+cdo -s mergetime *.nc rsds_Amon_INM-CM4-8_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6CMINIC8hir111AmtmaUx90530_1-3.zip
+cdo -s mergetime *.nc tasmax_Amon_INM-CM4-8_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6SPDKME2s245r111Amtmagn90710_1-18.zip
+cdo -s mergetime *.nc tasmax_Amon_MPI-ESM1-2-HR_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMEEEVEhir111Amtmald00225_1-165.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3-Veg_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6SPEEE3s585r9111Ampslld00201_1-86.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3_ssp585_r9i1p1f1_gr_201501-210012.nc
+FILE: C6CMGIGEGhir3112Amuasgn90903_1-4.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_historical_r3i1p1f2_gn_185001-201412.nc
+FILE: C6CMGIGEGhir5112Ampslgn90903_1-4.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_historical_r5i1p1f2_gn_185001-201412.nc
+FILE: C6CMMXML2hir111Ampslgn90710_1-9.zip
+cdo -s mergetime *.nc psl_Amon_MPI-ESM1-2-LR_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPAWAWMs585r111Amprgn90529_1-86.zip
+cdo -s mergetime *.nc pr_Amon_AWI-CM-1-1-MR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir812Amtmagn90903_1-4.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_historical_r8i1p1f2_gn_185001-201412.nc
+FILE: C6SPGIGE1s245r4131Amtasgn00115_1-10.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_ssp245_r4i1p3f1_gn_201501-250012.nc
+FILE: C6SPCIIITs245r111Amtasgn00915_1-9.zip
+cdo -s mergetime *.nc tas_Amon_IITM-ESM_ssp245_r1i1p1f1_gn_201501-209912.nc
+FILE: C6CMMXME2hir111Amvasgn90710_1-33.zip
+cdo -s mergetime *.nc vas_Amon_MPI-ESM1-2-HR_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6CMMXME2hir111Amtmgn90710_1-33.zip
+cdo -s mergetime *.nc tasmin_Amon_MPI-ESM1-2-HR_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6CMEEEVEhir111Amprld90605_1-165.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6SPEEE3s585r6111Amtasld00201_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3_ssp585_r6i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEE3s245r111Amrsld00310_1-86.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6CMGIGEGhir9111Amuasgn80830_1-4.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_historical_r9i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir5111Ampslgn80828_1-4.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_historical_r5i1p1f1_gn_185001-201412.nc
+FILE: C6SPGIGE1s245r3131Amtmagn00115_1-10.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_ssp245_r3i1p3f1_gn_201501-250012.nc
+FILE: C6CMEEEVEhir111Amrsld00225_1-165.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3-Veg_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6CMGIGEGhir9111Amtasgn80830_1-4.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_historical_r9i1p1f1_gn_185001-201412.nc
+FILE: C6SPNRCESs126r4111Amtmagn00528_1-2.zip
+cdo -s mergetime *.nc tasmax_Amon_CESM2_ssp126_r4i1p1f1_gn_201501-210012.nc
+FILE: C6CMEEEVEhir111Amprld00225_1-165.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6CMGIGEGhir9111Amtmagn80830_1-4.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_historical_r9i1p1f1_gn_185001-201412.nc
+FILE: C6SPGIGE1s245r4131Amprgn00115_1-10.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_ssp245_r4i1p3f1_gn_201501-250012.nc
+FILE: C6SPGIGE1s245r2131Amuasgn00115_1-10.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_ssp245_r2i1p3f1_gn_201501-250012.nc
+FILE: C6CMGIGEGhir8111Amtmagn80830_1-4.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_historical_r8i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir2111Ampslgn80827_1-4.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_historical_r2i1p1f1_gn_185001-201412.nc
+FILE: C6SPEEE3s245r111Amtmald00310_1-86.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6CMGIGEGhir8111Amuasgn80830_1-4.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_historical_r8i1p1f1_gn_185001-201412.nc
+FILE: C6SPNRCESs370r4111Amhussgn00528_1-2.zip
+cdo -s mergetime *.nc huss_Amon_CESM2_ssp370_r4i1p1f1_gn_201501-210012.nc
+FILE: C6SPNRCESWs585r111Amtmagn00702_1-4.zip
+cdo -s mergetime *.nc tasmax_Amon_CESM2-WACCM_ssp585_r1i1p1f1_gn_210101-229912.nc
+FILE: C6SPGIGE1s245r5131Ampslgn00115_1-10.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_ssp245_r5i1p3f1_gn_201501-250012.nc
+FILE: C6SPCIIITs370r111Amuasgn00915_1-9.zip
+cdo -s mergetime *.nc uas_Amon_IITM-ESM_ssp370_r1i1p1f1_gn_201501-209812.nc
+FILE: C6SPCIIITs126r111Amtasgn01112_1-10.zip
+cdo -s mergetime *.nc tas_Amon_IITM-ESM_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir5111Amtasgn80828_1-4.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_historical_r5i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir7112Amtasgn90903_1-4.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_historical_r7i1p1f2_gn_185001-201412.nc
+FILE: C6SPGIGE1s245r2131Amtmagn00115_1-10.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_ssp245_r2i1p3f1_gn_201501-250012.nc
+FILE: C6CMEEEVEhir2111Amprld00226_1-165.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg_historical_r2i1p1f1_gr_185001-201412.nc
+FILE: C6SPNRCESs585r4111Amhussgn00528_1-2.zip
+cdo -s mergetime *.nc huss_Amon_CESM2_ssp585_r4i1p1f1_gn_201501-210012.nc
+FILE: C6SPAWAWMs370r111Amvasgn90529_1-86.zip
+cdo -s mergetime *.nc vas_Amon_AWI-CM-1-1-MR_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPDKME2s245r111Ampslgn90710_1-18.zip
+cdo -s mergetime *.nc psl_Amon_MPI-ESM1-2-HR_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMEEEVEhir111Amtasld00225_1-165.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6CMGIGEGhir9112Ampslgn90903_1-4.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_historical_r9i1p1f2_gn_185001-201412.nc
+FILE: C6CMINIC8hir111AmvasUx90530_1-3.zip
+cdo -s mergetime *.nc vas_Amon_INM-CM4-8_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6SPEEE3s585r111Amprld90629_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6CMMIMIhir111Amrsgn90311_1-2.zip
+cdo -s mergetime *.nc rsds_Amon_MIROC6_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPAWAWMs585r111Amtmgn90529_1-86.zip
+cdo -s mergetime *.nc tasmin_Amon_AWI-CM-1-1-MR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNRCESs126r4111Ampslgn00528_1-2.zip
+cdo -s mergetime *.nc psl_Amon_CESM2_ssp126_r4i1p1f1_gn_201501-210012.nc
+FILE: C6SPDWME2s585r2111Amuasgn90710_1-18.zip
+cdo -s mergetime *.nc uas_Amon_MPI-ESM1-2-HR_ssp585_r2i1p1f1_gn_201501-210012.nc
+FILE: C6SPNRCESWs370r111Amprgn90815_1-2.zip
+cdo -s mergetime *.nc pr_Amon_CESM2-WACCM_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMMXME2hir111Amprgn90710_1-33.zip
+cdo -s mergetime *.nc pr_Amon_MPI-ESM1-2-HR_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir7111Ampslgn80829_1-4.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_historical_r7i1p1f1_gn_185001-201412.nc
+FILE: C6SPNRCESs126r4111Amtasgn00528_1-2.zip
+cdo -s mergetime *.nc tas_Amon_CESM2_ssp126_r4i1p1f1_gn_201501-210012.nc
+FILE: C6SPNRCESWs370r111Amtasgn90815_1-2.zip
+cdo -s mergetime *.nc tas_Amon_CESM2-WACCM_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir3112Amrsgn90903_1-4.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_historical_r3i1p1f2_gn_185001-201412.nc
+FILE: C6CMGIGEGhir7112Ampslgn90903_1-4.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_historical_r7i1p1f2_gn_185001-201412.nc
+FILE: C6SPCCCEs585r111Amuasgn90429_1-3.zip
+cdo -s mergetime *.nc uas_Amon_CanESM5_ssp585_r1i1p1f1_gn_201501-230012.nc
+FILE: C6CMEEE3hir111Amprld90711_1-32.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3_historical_r1i1p1f1_gr_185001-201312.nc
+FILE: C6SPAWAWMs585r111Amtmagn90529_1-86.zip
+cdo -s mergetime *.nc tasmax_Amon_AWI-CM-1-1-MR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPEEE3s585r111Amrsld00310_1-86.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEE3s585r6111Ampslld00201_1-86.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3_ssp585_r6i1p1f1_gr_201501-210012.nc
+FILE: C6SPNRCESWs370r111Amhussgn90815_1-2.zip
+cdo -s mergetime *.nc huss_Amon_CESM2-WACCM_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPGIGE1s245r3131Amrsgn00115_1-10.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_ssp245_r3i1p3f1_gn_201501-250012.nc
+FILE: C6SPEEE3s585r111Amprld00310_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPCIIITs126r111Amrsgn01112_1-9.zip
+cdo -s mergetime *.nc rsds_Amon_IITM-ESM_ssp126_r1i1p1f1_gn_201501-209912.nc
+FILE: C6CMGIGEGhir2112Amtmagn90903_1-4.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_historical_r2i1p1f2_gn_185001-201412.nc
+FILE: C6CMEEEVEhir111Amuasld00225_1-165.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3-Veg_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6SPNRCESWs245r2111Amrsgn00224_1-2.zip
+cdo -s mergetime *.nc rsds_Amon_CESM2-WACCM_ssp245_r2i1p1f1_gn_201501-210012.nc
+FILE: C6SPCIIITs126r111Amtmagn01112_1-9.zip
+cdo -s mergetime *.nc tasmax_Amon_IITM-ESM_ssp126_r1i1p1f1_gn_201501-209912.nc
+FILE: C6CMEEE3hir111Amtmald00310_1-165.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6CMMXML2hir111Amprgn90710_1-9.zip
+cdo -s mergetime *.nc pr_Amon_MPI-ESM1-2-LR_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir812Amtasgn90903_1-4.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_historical_r8i1p1f2_gn_185001-201412.nc
+FILE: C6CMEEE3hir111Amprld00310_1-165.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6SPGIGE1s245r4131Amrsgn00115_1-10.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_ssp245_r4i1p3f1_gn_201501-250012.nc
+FILE: C6CMGIGEGhir3111Amrsgn80828_1-4.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_historical_r3i1p1f1_gn_185001-201412.nc
+FILE: C6SPNRCESs585r4111Amtmgn00528_1-2.zip
+cdo -s mergetime *.nc tasmin_Amon_CESM2_ssp585_r4i1p1f1_gn_201501-210012.nc
+FILE: C6SPNRCESs245r4111Amprgn00528_1-2.zip
+cdo -s mergetime *.nc pr_Amon_CESM2_ssp245_r4i1p1f1_gn_201501-210012.nc
+FILE: C6SPDKME2s245r2111Amuasgn90710_1-18.zip
+cdo -s mergetime *.nc uas_Amon_MPI-ESM1-2-HR_ssp245_r2i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir4112Ampslgn90903_1-4.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_historical_r4i1p1f2_gn_185001-201412.nc
+FILE: C6SPDKME2s585r111Amrsgn90710_1-18.zip
+cdo -s mergetime *.nc rsds_Amon_MPI-ESM1-2-HR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir2112Amrsgn90903_1-4.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_historical_r2i1p1f2_gn_185001-201412.nc
+FILE: C6CMMXME2hir111Amuasgn90710_1-33.zip
+cdo -s mergetime *.nc uas_Amon_MPI-ESM1-2-HR_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPNRCESs370r4111Amprgn00528_1-2.zip
+cdo -s mergetime *.nc pr_Amon_CESM2_ssp370_r4i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir2111Amtmagn80827_1-4.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_historical_r2i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir4111Ampslgn80828_1-4.zip
+cdo -s mergetime *.nc psl_Amon_GISS-E2-1-G_historical_r4i1p1f1_gn_185001-201412.nc
+FILE: C6SPNRCESs585r4111Amtmagn00528_1-2.zip
+cdo -s mergetime *.nc tasmax_Amon_CESM2_ssp585_r4i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir4111Amtmagn80828_1-4.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_historical_r4i1p1f1_gn_185001-201412.nc
+FILE: C6CMMXME2hir111Amtmagn90710_1-33.zip
+cdo -s mergetime *.nc tasmax_Amon_MPI-ESM1-2-HR_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6CMINIC8hir111AmtasUx90530_1-3.zip
+cdo -s mergetime *.nc tas_Amon_INM-CM4-8_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6CMGIGEGhir6112Amuasgn90903_1-4.zip
+cdo -s mergetime *.nc uas_Amon_GISS-E2-1-G_historical_r6i1p1f2_gn_185001-201412.nc
+FILE: C6SPGIGE1s245r2131Amprgn00115_1-10.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_ssp245_r2i1p3f1_gn_201501-250012.nc
+FILE: C6SPGIGE1s245r2131Amrsgn00115_1-10.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_ssp245_r2i1p3f1_gn_201501-250012.nc
+FILE: C6SPCIIITs245r111Amhussgn00915_1-9.zip
+cdo -s mergetime *.nc huss_Amon_IITM-ESM_ssp245_r1i1p1f1_gn_201501-209912.nc
+FILE: C6CMGIGEGhir9112Amtasgn90903_1-4.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_historical_r9i1p1f2_gn_185001-201412.nc
+FILE: C6CMINIC0hir111AmtmaUx90610_1-2.zip
+cdo -s mergetime *.nc tasmax_Amon_INM-CM5-0_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6CMGIGEGhir4112Amrsgn90903_1-4.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_historical_r4i1p1f2_gn_185001-201412.nc
+FILE: C6SPEEE3s245r111Amtasld90927_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6CMINIC8hir111AmuasUx90530_1-3.zip
+cdo -s mergetime *.nc uas_Amon_INM-CM4-8_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6CMGIGEGhir6111Amprgn80829_1-4.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_historical_r6i1p1f1_gn_185001-201412.nc
+FILE: C6SPCIIITs370r111Amprgn00915_1-10.zip
+cdo -s mergetime *.nc pr_Amon_IITM-ESM_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCIIITs126r111Amprgn00915_1-9.zip
+cdo -s mergetime *.nc pr_Amon_IITM-ESM_ssp126_r1i1p1f1_gn_201501-209812.nc
+FILE: C6SPCIIITs245r111Amrsgn00915_1-9.zip
+cdo -s mergetime *.nc rsds_Amon_IITM-ESM_ssp245_r1i1p1f1_gn_201501-209912.nc
+FILE: C6CMGIGEGhir6111Amtmagn80829_1-4.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_historical_r6i1p1f1_gn_185001-201412.nc
+FILE: C6SPEEE3s585r111Amtasld90928_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6CMGIGEGhir7111Amprgn80829_1-4.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_historical_r7i1p1f1_gn_185001-201412.nc
+FILE: C6SPNRCESs370r4111Amtmgn00528_1-2.zip
+cdo -s mergetime *.nc tasmin_Amon_CESM2_ssp370_r4i1p1f1_gn_201501-210012.nc
+FILE: C6SPDKME2s245r111Amuasgn90710_1-18.zip
+cdo -s mergetime *.nc uas_Amon_MPI-ESM1-2-HR_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMEEE3hir111Amuasld00310_1-165.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6CMMXML2hir111Amrsgn90710_1-9.zip
+cdo -s mergetime *.nc rsds_Amon_MPI-ESM1-2-LR_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir7112Amtmagn90903_1-4.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_historical_r7i1p1f2_gn_185001-201412.nc
+FILE: C6CMGIGEGhir3111Amtasgn80828_1-4.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_historical_r3i1p1f1_gn_185001-201412.nc
+FILE: C6SPNRCESWs585r111Amtmgn00702_1-4.zip
+cdo -s mergetime *.nc tasmin_Amon_CESM2-WACCM_ssp585_r1i1p1f1_gn_210101-229912.nc
+FILE: C6CMGIGEGhir9111Amprgn80830_1-4.zip
+cdo -s mergetime *.nc pr_Amon_GISS-E2-1-G_historical_r9i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir4112Amtmagn90903_1-4.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_historical_r4i1p1f2_gn_185001-201412.nc
+FILE: C6CMAWAWMhir111Amvasgn00511_1-165.zip
+cdo -s mergetime *.nc vas_Amon_AWI-CM-1-1-MR_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6CMINIC8hir111AmpslUx90530_1-3.zip
+cdo -s mergetime *.nc psl_Amon_INM-CM4-8_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6SPGIGE1s245r5131Amtasgn00115_1-10.zip
+cdo -s mergetime *.nc tas_Amon_GISS-E2-1-G_ssp245_r5i1p3f1_gn_201501-250012.nc
+FILE: C6SPDKME2s245r111Amprgn90710_1-18.zip
+cdo -s mergetime *.nc pr_Amon_MPI-ESM1-2-HR_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMGIGEGhir9111Amrsgn80830_1-4.zip
+cdo -s mergetime *.nc rsds_Amon_GISS-E2-1-G_historical_r9i1p1f1_gn_185001-201412.nc
+FILE: C6CMGIGEGhir9112Amtmagn90903_1-4.zip
+cdo -s mergetime *.nc tasmax_Amon_GISS-E2-1-G_historical_r9i1p1f2_gn_185001-201412.nc
+FILE: C6SPMXML2s370r111Amuasgn90710_1-5.zip
+cdo -s mergetime *.nc uas_Amon_MPI-ESM1-2-LR_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMXML2s370r111Amtmagn90710_1-5.zip
+cdo -s mergetime *.nc tasmax_Amon_MPI-ESM1-2-LR_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPIPICLs126r111Amtmld90903_1-2.zip
+cdo -s mergetime *.nc tasmin_Amon_IPSL-CM6A-LR_ssp126_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPMXML2s126r111Amuasgn90710_1-5.zip
+cdo -s mergetime *.nc uas_Amon_MPI-ESM1-2-LR_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMXML2s585r111Amhussgn90710_1-5.zip
+cdo -s mergetime *.nc huss_Amon_MPI-ESM1-2-LR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPIPICLs126r111Amtasld90903_1-2.zip
+cdo -s mergetime *.nc tas_Amon_IPSL-CM6A-LR_ssp126_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPIPICLs126r111Ampslld90903_1-2.zip
+cdo -s mergetime *.nc psl_Amon_IPSL-CM6A-LR_ssp126_r1i1p1f1_gr_201501-230012.nc
+FILE: C6CMEEEVEhir2111Ampslld00226_1-165.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3-Veg_historical_r2i1p1f1_gr_185001-201412.nc
+FILE: C6SPMXML2s126r111Ampslgn90710_1-5.zip
+cdo -s mergetime *.nc psl_Amon_MPI-ESM1-2-LR_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMXML2s245r111Amuasgn90710_1-5.zip
+cdo -s mergetime *.nc uas_Amon_MPI-ESM1-2-LR_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPIPICLs126r111Amvasld90903_1-2.zip
+cdo -s mergetime *.nc vas_Amon_IPSL-CM6A-LR_ssp126_r1i1p1f1_gr_201501-230012.nc
+FILE: C6CMMXML2hir111Amtmgn90710_1-9.zip
+cdo -s mergetime *.nc tasmin_Amon_MPI-ESM1-2-LR_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPIPICLs126r111Amhussld90903_1-2.zip
+cdo -s mergetime *.nc huss_Amon_IPSL-CM6A-LR_ssp126_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPEEEVEs245r111Amuasld00225_1-86.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3-Veg_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPMXML2s126r111Amvasgn90710_1-5.zip
+cdo -s mergetime *.nc vas_Amon_MPI-ESM1-2-LR_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMXML2s245r111Amtmgn90710_1-5.zip
+cdo -s mergetime *.nc tasmin_Amon_MPI-ESM1-2-LR_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMXML2s370r111Amtasgn90710_1-5.zip
+cdo -s mergetime *.nc tas_Amon_MPI-ESM1-2-LR_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMXML2s126r111Amtmgn90710_1-5.zip
+cdo -s mergetime *.nc tasmin_Amon_MPI-ESM1-2-LR_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMXML2s126r111Amrsgn90710_1-5.zip
+cdo -s mergetime *.nc rsds_Amon_MPI-ESM1-2-LR_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMMXML2hir111Amuasgn90710_1-9.zip
+cdo -s mergetime *.nc uas_Amon_MPI-ESM1-2-LR_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPMXML2s585r111Ampslgn90710_1-5.zip
+cdo -s mergetime *.nc psl_Amon_MPI-ESM1-2-LR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMEEEVEhir3111Amuasld00226_1-165.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3-Veg_historical_r3i1p1f1_gr_185001-201412.nc
+FILE: C6SPIPICLs126r111Amuasld90903_1-2.zip
+cdo -s mergetime *.nc uas_Amon_IPSL-CM6A-LR_ssp126_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPMXML2s370r111Amprgn90710_1-5.zip
+cdo -s mergetime *.nc pr_Amon_MPI-ESM1-2-LR_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMXML2s585r111Amrsgn90710_1-5.zip
+cdo -s mergetime *.nc rsds_Amon_MPI-ESM1-2-LR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMEEEVEhir3111Amtmald00226_1-165.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3-Veg_historical_r3i1p1f1_gr_185001-201412.nc
+FILE: C6SPEEEVEs245r111Ampslld00225_1-86.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3-Veg_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPMXML2s245r111Amhussgn90710_1-5.zip
+cdo -s mergetime *.nc huss_Amon_MPI-ESM1-2-LR_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMMXML2hir111Amvasgn90710_1-9.zip
+cdo -s mergetime *.nc vas_Amon_MPI-ESM1-2-LR_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPMXML2s585r111Amprgn90710_1-5.zip
+cdo -s mergetime *.nc pr_Amon_MPI-ESM1-2-LR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPEEEVEs245r111Amtmald00225_1-86.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3-Veg_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs245r111Amtasld00225_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6CMEEEVEhir3111Ampslld00226_1-165.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3-Veg_historical_r3i1p1f1_gr_185001-201412.nc
+FILE: C6CMEEEVEhir2111Amtasld00226_1-165.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg_historical_r2i1p1f1_gr_185001-201412.nc
+FILE: C6CMEEEVEhir3111Amrsld00226_1-165.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3-Veg_historical_r3i1p1f1_gr_185001-201412.nc
+FILE: C6SPMXML2s245r111Amrsgn90710_1-5.zip
+cdo -s mergetime *.nc rsds_Amon_MPI-ESM1-2-LR_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPIPICLs126r111Amrsld90903_1-2.zip
+cdo -s mergetime *.nc rsds_Amon_IPSL-CM6A-LR_ssp126_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPMXML2s126r111Amhussgn90710_1-5.zip
+cdo -s mergetime *.nc huss_Amon_MPI-ESM1-2-LR_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPIPICLs126r111Amtmald90903_1-2.zip
+cdo -s mergetime *.nc tasmax_Amon_IPSL-CM6A-LR_ssp126_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPMXML2s370r111Amtmgn90710_1-5.zip
+cdo -s mergetime *.nc tasmin_Amon_MPI-ESM1-2-LR_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMXML2s245r111Amtmagn90710_1-5.zip
+cdo -s mergetime *.nc tasmax_Amon_MPI-ESM1-2-LR_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMXML2s126r111Amprgn90710_1-5.zip
+cdo -s mergetime *.nc pr_Amon_MPI-ESM1-2-LR_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPEEEVEs245r111Amrsld00225_1-86.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3-Veg_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPMXML2s370r111Amhussgn90710_1-5.zip
+cdo -s mergetime *.nc huss_Amon_MPI-ESM1-2-LR_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMEEEVEhir2111Amrsld00226_1-165.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3-Veg_historical_r2i1p1f1_gr_185001-201412.nc
+FILE: C6SPEEEVEs245r111Amprld90629_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPMXML2s370r111Amvasgn90710_1-5.zip
+cdo -s mergetime *.nc vas_Amon_MPI-ESM1-2-LR_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMEEEVEhir2111Amuasld00226_1-165.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3-Veg_historical_r2i1p1f1_gr_185001-201412.nc
+FILE: C6CMEEEVEhir3111Amtasld00226_1-165.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg_historical_r3i1p1f1_gr_185001-201412.nc
+FILE: C6SPMXML2s245r111Amtasgn90710_1-5.zip
+cdo -s mergetime *.nc tas_Amon_MPI-ESM1-2-LR_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMXML2s245r111Ampslgn90710_1-5.zip
+cdo -s mergetime *.nc psl_Amon_MPI-ESM1-2-LR_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPIPICLs126r111Amprld90903_1-2.zip
+cdo -s mergetime *.nc pr_Amon_IPSL-CM6A-LR_ssp126_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPEEEVEs245r111Amprld00225_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPMXML2s585r111Amtasgn90710_1-5.zip
+cdo -s mergetime *.nc tas_Amon_MPI-ESM1-2-LR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMXML2s370r111Ampslgn90710_1-5.zip
+cdo -s mergetime *.nc psl_Amon_MPI-ESM1-2-LR_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMXML2s370r111Amrsgn90710_1-5.zip
+cdo -s mergetime *.nc rsds_Amon_MPI-ESM1-2-LR_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMEEEVEhir3111Amprld00226_1-165.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg_historical_r3i1p1f1_gr_185001-201412.nc
+FILE: C6SPMXML2s126r111Amtmagn90710_1-5.zip
+cdo -s mergetime *.nc tasmax_Amon_MPI-ESM1-2-LR_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMXML2s245r111Amprgn90710_1-5.zip
+cdo -s mergetime *.nc pr_Amon_MPI-ESM1-2-LR_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMXML2s245r111Amvasgn90710_1-5.zip
+cdo -s mergetime *.nc vas_Amon_MPI-ESM1-2-LR_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMXML2s126r111Amtasgn90710_1-5.zip
+cdo -s mergetime *.nc tas_Amon_MPI-ESM1-2-LR_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMEEEVEhir2111Amtmald00226_1-165.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3-Veg_historical_r2i1p1f1_gr_185001-201412.nc
+FILE: C6SPEEEVEs245r4111Amprld00425_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg_ssp245_r4i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs245r4111Amuasld00425_1-86.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3-Veg_ssp245_r4i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs245r6111Amtasld00130_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg_ssp245_r6i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs245r3111Amtmald00515_1-86.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3-Veg_ssp245_r3i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs245r4111Ampslld00425_1-86.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3-Veg_ssp245_r4i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs245r3111Ampslld00515_1-86.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3-Veg_ssp245_r3i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs245r3111Amprld00515_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg_ssp245_r3i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs245r6111Amtmald00130_1-86.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3-Veg_ssp245_r6i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs245r5111Amtasld00312_1-87.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg_ssp245_r5i1p1f1_gr_201401-210012.nc
+FILE: C6SPEEEVEs245r5111Amrsld00312_1-87.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3-Veg_ssp245_r5i1p1f1_gr_201401-210012.nc
+FILE: C6SPEEEVEs245r6111Amrsld00130_1-86.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3-Veg_ssp245_r6i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs245r5111Ampslld00312_1-87.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3-Veg_ssp245_r5i1p1f1_gr_201401-210012.nc
+FILE: C6SPEEEVEs245r5111Amtmald00312_1-87.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3-Veg_ssp245_r5i1p1f1_gr_201401-210012.nc
+FILE: C6SPMXML2s585r111Amtmagn90710_1-5.zip
+cdo -s mergetime *.nc tasmax_Amon_MPI-ESM1-2-LR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPEEEVEs245r6111Amprld00130_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg_ssp245_r6i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs245r4111Amtasld90915_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg_ssp245_r4i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs245r6111Amuasld00130_1-86.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3-Veg_ssp245_r6i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs245r6111Ampslld00130_1-86.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3-Veg_ssp245_r6i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs245r4111Amtmald00425_1-86.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3-Veg_ssp245_r4i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs245r3111Amtasld00515_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg_ssp245_r3i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs245r5111Amuasld00312_1-87.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3-Veg_ssp245_r5i1p1f1_gr_201401-210012.nc
+FILE: C6SPEEEVEs245r4111Amtasld00425_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg_ssp245_r4i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs245r5111Amprld00312_1-87.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg_ssp245_r5i1p1f1_gr_201401-210012.nc
+FILE: C6SPEEEVEs245r4111Amrsld00425_1-86.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3-Veg_ssp245_r4i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs245r3111Amrsld00515_1-86.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3-Veg_ssp245_r3i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs245r3111Amuasld00515_1-86.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3-Veg_ssp245_r3i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs585r4111Amprld00425_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg_ssp585_r4i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs585r4111Amrsld00425_1-86.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3-Veg_ssp585_r4i1p1f1_gr_201501-210012.nc
+FILE: C6SPMRME0s126r111Amprgn91108_1-2.zip
+cdo -s mergetime *.nc pr_Amon_MRI-ESM2-0_ssp126_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPEEEVEs585r2111Ampslld00226_1-86.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3-Veg_ssp585_r2i1p1f1_gr_201501-210012.nc
+FILE: C6SPMRME0s126r111Amvasgn91108_1-2.zip
+cdo -s mergetime *.nc vas_Amon_MRI-ESM2-0_ssp126_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPEEEVEs585r111Amrsld00225_1-86.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3-Veg_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs585r4111Ampslld00425_1-86.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3-Veg_ssp585_r4i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs585r3111Amtmald00515_1-86.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3-Veg_ssp585_r3i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs585r6111Amtmald00130_1-86.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3-Veg_ssp585_r6i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs585r6111Amuasld00130_1-86.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3-Veg_ssp585_r6i1p1f1_gr_201501-210012.nc
+FILE: C6SPMXML2s585r111Amtmgn90710_1-5.zip
+cdo -s mergetime *.nc tasmin_Amon_MPI-ESM1-2-LR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPEEEVEs585r2111Amtmald00226_1-86.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3-Veg_ssp585_r2i1p1f1_gr_201501-210012.nc
+FILE: C6SPMRME0s126r111Amtasgn91108_1-2.zip
+cdo -s mergetime *.nc tas_Amon_MRI-ESM2-0_ssp126_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPEEEVEs585r2111Amuasld00226_1-86.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3-Veg_ssp585_r2i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs585r4111Amtmald00425_1-86.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3-Veg_ssp585_r4i1p1f1_gr_201501-210012.nc
+FILE: C6SPMRME0s126r111Amtmagn91108_1-2.zip
+cdo -s mergetime *.nc tasmax_Amon_MRI-ESM2-0_ssp126_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPEEEVEs585r3111Amrsld00515_1-86.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3-Veg_ssp585_r3i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs585r111Ampslld00225_1-86.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3-Veg_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPIPICLs585r111Amprld90903_1-2.zip
+cdo -s mergetime *.nc pr_Amon_IPSL-CM6A-LR_ssp585_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPIPICLs585r111Amuasld90903_1-2.zip
+cdo -s mergetime *.nc uas_Amon_IPSL-CM6A-LR_ssp585_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPMXML2s585r111Amvasgn90710_1-5.zip
+cdo -s mergetime *.nc vas_Amon_MPI-ESM1-2-LR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMRME0s126r111Amrsgn91108_1-2.zip
+cdo -s mergetime *.nc rsds_Amon_MRI-ESM2-0_ssp126_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPEEEVEs585r2111Amtasld00226_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg_ssp585_r2i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs585r4111Amtasld00425_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg_ssp585_r4i1p1f1_gr_201501-210012.nc
+FILE: C6SPIPICLs585r111Ampslld90903_1-2.zip
+cdo -s mergetime *.nc psl_Amon_IPSL-CM6A-LR_ssp585_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPEEEVEs585r111Amtasld00225_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPIPICLs585r111Amvasld90903_1-2.zip
+cdo -s mergetime *.nc vas_Amon_IPSL-CM6A-LR_ssp585_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPEEEVEs585r4111Amtasld90915_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg_ssp585_r4i1p1f1_gr_201501-210012.nc
+FILE: C6SPCECC2s126r1112Amtmld00127_1-4.zip
+cdo -s mergetime *.nc tasmin_Amon_CNRM-CM6-1-HR_ssp126_r1i1p1f2_gr_201501-210012.nc
+FILE: C6SPIPICLs585r111Amtmald90903_1-2.zip
+cdo -s mergetime *.nc tasmax_Amon_IPSL-CM6A-LR_ssp585_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPIPICLs585r111Amtmld90903_1-2.zip
+cdo -s mergetime *.nc tasmin_Amon_IPSL-CM6A-LR_ssp585_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPEEEVEs585r6111Amrsld00130_1-86.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3-Veg_ssp585_r6i1p1f1_gr_201501-210012.nc
+FILE: C6SPIPICLs585r111Amrsld90903_1-2.zip
+cdo -s mergetime *.nc rsds_Amon_IPSL-CM6A-LR_ssp585_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPEEEVEs585r3111Amuasld00515_1-86.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3-Veg_ssp585_r3i1p1f1_gr_201501-210012.nc
+FILE: C6SPIPICLs585r111Amhussld90903_1-2.zip
+cdo -s mergetime *.nc huss_Amon_IPSL-CM6A-LR_ssp585_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPEEEVEs585r3111Amprld00515_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg_ssp585_r3i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs585r3111Amtasld00515_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg_ssp585_r3i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs585r111Amtmald00225_1-86.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3-Veg_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs585r6111Ampslld00130_1-86.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3-Veg_ssp585_r6i1p1f1_gr_201501-210012.nc
+FILE: C6SPMRME0s126r111Amuasgn91108_1-2.zip
+cdo -s mergetime *.nc uas_Amon_MRI-ESM2-0_ssp126_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPEEEVEs585r3111Ampslld00515_1-86.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3-Veg_ssp585_r3i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs585r2111Amrsld00226_1-86.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3-Veg_ssp585_r2i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs585r2111Amprld00226_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg_ssp585_r2i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs585r111Amuasld00225_1-86.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3-Veg_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs585r6111Amtasld00130_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg_ssp585_r6i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs585r4111Amuasld00425_1-86.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3-Veg_ssp585_r4i1p1f1_gr_201501-210012.nc
+FILE: C6SPMXML2s585r111Amuasgn90710_1-5.zip
+cdo -s mergetime *.nc uas_Amon_MPI-ESM1-2-LR_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMRME0s126r111Ampslgn91108_1-2.zip
+cdo -s mergetime *.nc psl_Amon_MRI-ESM2-0_ssp126_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPEEEVEs585r6111Amprld00130_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg_ssp585_r6i1p1f1_gr_201501-210012.nc
+FILE: C6SPIPICLs585r111Amtasld90903_1-2.zip
+cdo -s mergetime *.nc tas_Amon_IPSL-CM6A-LR_ssp585_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPMRME0s126r111Amtmgn91108_1-2.zip
+cdo -s mergetime *.nc tasmin_Amon_MRI-ESM2-0_ssp126_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPEEEVEs585r111Amprld00225_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPMRME0s126r111Amhssgn91108_1-2.zip
+cdo -s mergetime *.nc huss_Amon_MRI-ESM2-0_ssp126_r1i1p1f1_gn_201501-230012.nc
+FILE: C6CMEEEVLhir111Amtasld00217_1-165.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg-LR_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6CMEEEVLhir111Ampslld00217_1-165.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3-Veg-LR_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6CMEEEVLhir111Amrsld00217_1-165.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3-Veg-LR_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6CMEEEVLhir111Amprld00217_1-165.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg-LR_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6CMEEEVLhir111Amhussld00217_1-165.zip
+cdo -s mergetime *.nc huss_Amon_EC-Earth3-Veg-LR_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6SPMRME0s585r111Amtasgn91108_1-2.zip
+cdo -s mergetime *.nc tas_Amon_MRI-ESM2-0_ssp585_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPMRME0s585r111Amtmagn91108_1-2.zip
+cdo -s mergetime *.nc tasmax_Amon_MRI-ESM2-0_ssp585_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPMRME0s585r111Amhssgn91108_1-2.zip
+cdo -s mergetime *.nc huss_Amon_MRI-ESM2-0_ssp585_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPMRME0s585r111Amrsgn91108_1-2.zip
+cdo -s mergetime *.nc rsds_Amon_MRI-ESM2-0_ssp585_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPMRME0s585r111Amuasgn91108_1-2.zip
+cdo -s mergetime *.nc uas_Amon_MRI-ESM2-0_ssp585_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPMRME0s585r111Ampslgn91108_1-2.zip
+cdo -s mergetime *.nc psl_Amon_MRI-ESM2-0_ssp585_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPMRME0s585r111Amtmgn91108_1-2.zip
+cdo -s mergetime *.nc tasmin_Amon_MRI-ESM2-0_ssp585_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPMRME0s585r111Amprgn91108_1-2.zip
+cdo -s mergetime *.nc pr_Amon_MRI-ESM2-0_ssp585_r1i1p1f1_gn_201501-230012.nc
+FILE: C6CMEEEVLhir111Amuasld00217_1-165.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3-Veg-LR_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6CMEEEVLhir111Amtmald00217_1-165.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3-Veg-LR_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6CMEEEVLhir111Amtmld00217_1-165.zip
+cdo -s mergetime *.nc tasmin_Amon_EC-Earth3-Veg-LR_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6SPNCCNLs126r111Amprgn91108_1-9.zip
+cdo -s mergetime *.nc pr_Amon_NorESM2-LM_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCNLs126r111Amhssgn91108_1-9.zip
+cdo -s mergetime *.nc huss_Amon_NorESM2-LM_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCNLs245r111Amprgn91108_1-9.zip
+cdo -s mergetime *.nc pr_Amon_NorESM2-LM_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPEEEVLs126r111Amrsld01201_1-86.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3-Veg-LR_ssp126_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPNCCNLs126r111Ampslgn91108_1-9.zip
+cdo -s mergetime *.nc psl_Amon_NorESM2-LM_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPEEEVLs126r111Amuasld01201_1-86.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3-Veg-LR_ssp126_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPNCCNLs245r111Amhssgn91108_1-9.zip
+cdo -s mergetime *.nc huss_Amon_NorESM2-LM_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCNLs126r111Amtasgn91108_1-9.zip
+cdo -s mergetime *.nc tas_Amon_NorESM2-LM_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPEEEVLs126r111Amtasld01201_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg-LR_ssp126_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs126r111Ampslld01201_1-86.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3-Veg-LR_ssp126_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs126r111Amhussld01201_1-86.zip
+cdo -s mergetime *.nc huss_Amon_EC-Earth3-Veg-LR_ssp126_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs126r111Amvasld01201_1-86.zip
+cdo -s mergetime *.nc vas_Amon_EC-Earth3-Veg-LR_ssp126_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs126r111Amtmald01201_1-86.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3-Veg-LR_ssp126_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs126r111Amtmld01201_1-86.zip
+cdo -s mergetime *.nc tasmin_Amon_EC-Earth3-Veg-LR_ssp126_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs126r111Amprld01201_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg-LR_ssp126_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPMRME0s585r111Amvasgn91108_1-2.zip
+cdo -s mergetime *.nc vas_Amon_MRI-ESM2-0_ssp585_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPNCCNLs126r111Amrsgn91108_1-9.zip
+cdo -s mergetime *.nc rsds_Amon_NorESM2-LM_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCNLs245r111Amtasgn91108_1-9.zip
+cdo -s mergetime *.nc tas_Amon_NorESM2-LM_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCNLs245r111Amrsgn91108_1-9.zip
+cdo -s mergetime *.nc rsds_Amon_NorESM2-LM_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCNLs245r111Ampslgn91108_1-9.zip
+cdo -s mergetime *.nc psl_Amon_NorESM2-LM_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPEEEVLs245r111Amhussld01123_1-86.zip
+cdo -s mergetime *.nc huss_Amon_EC-Earth3-Veg-LR_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs245r111Ampslld01123_1-86.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3-Veg-LR_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs370r111Amhussld01123_1-86.zip
+cdo -s mergetime *.nc huss_Amon_EC-Earth3-Veg-LR_ssp370_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPNCCN2s585r111Amprgn91108_1-9.zip
+cdo -s mergetime *.nc pr_Amon_NorESM2-MM_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPEEEVLs245r111Amrsld01123_1-86.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3-Veg-LR_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6CMNCCN2hir111Amrsgn91108_1-17.zip
+cdo -s mergetime *.nc rsds_Amon_NorESM2-MM_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPNCCN2s370r111Amprgn91108_1-9.zip
+cdo -s mergetime *.nc pr_Amon_NorESM2-MM_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCNLs370r111Amhssgn91108_1-9.zip
+cdo -s mergetime *.nc huss_Amon_NorESM2-LM_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCN2s585r111Amtasgn91108_1-9.zip
+cdo -s mergetime *.nc tas_Amon_NorESM2-MM_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCNLs370r111Amprgn91108_1-9.zip
+cdo -s mergetime *.nc pr_Amon_NorESM2-LM_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCNLs585r111Ampslgn91108_1-9.zip
+cdo -s mergetime *.nc psl_Amon_NorESM2-LM_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCN2s245r111Amtasgn91108_1-9.zip
+cdo -s mergetime *.nc tas_Amon_NorESM2-MM_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCNLs370r111Ampslgn91108_1-9.zip
+cdo -s mergetime *.nc psl_Amon_NorESM2-LM_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPEEEVLs245r111Amtmld01123_1-86.zip
+cdo -s mergetime *.nc tasmin_Amon_EC-Earth3-Veg-LR_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6CMNCCN2hir111Amprgn91108_1-17.zip
+cdo -s mergetime *.nc pr_Amon_NorESM2-MM_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPNCCN2s126r111Amhussgn91108_1-9.zip
+cdo -s mergetime *.nc huss_Amon_NorESM2-MM_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCN2s126r111Amrsgn91108_1-9.zip
+cdo -s mergetime *.nc rsds_Amon_NorESM2-MM_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPEEEVLs245r111Amtasld01123_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg-LR_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs245r111Amvasld01123_1-86.zip
+cdo -s mergetime *.nc vas_Amon_EC-Earth3-Veg-LR_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPNCCN2s370r111Ampslgn91108_1-9.zip
+cdo -s mergetime *.nc psl_Amon_NorESM2-MM_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCNLs585r111Amrsgn91108_1-9.zip
+cdo -s mergetime *.nc rsds_Amon_NorESM2-LM_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCN2s370r111Amtasgn91108_1-9.zip
+cdo -s mergetime *.nc tas_Amon_NorESM2-MM_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCNLs585r111Amprgn91108_1-9.zip
+cdo -s mergetime *.nc pr_Amon_NorESM2-LM_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCN2s585r111Amrsgn91108_1-9.zip
+cdo -s mergetime *.nc rsds_Amon_NorESM2-MM_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCN2s245r111Ampslgn91108_1-9.zip
+cdo -s mergetime *.nc psl_Amon_NorESM2-MM_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCN2s585r111Amhussgn91108_1-9.zip
+cdo -s mergetime *.nc huss_Amon_NorESM2-MM_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCN2s126r111Amprgn91108_1-9.zip
+cdo -s mergetime *.nc pr_Amon_NorESM2-MM_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCN2s370r111Amhussgn91108_1-9.zip
+cdo -s mergetime *.nc huss_Amon_NorESM2-MM_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMNCCN2hir111Amtasgn91108_1-17.zip
+cdo -s mergetime *.nc tas_Amon_NorESM2-MM_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPNCCN2s245r111Amhussgn91108_1-9.zip
+cdo -s mergetime *.nc huss_Amon_NorESM2-MM_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCNLs370r111Amrsgn91108_1-9.zip
+cdo -s mergetime *.nc rsds_Amon_NorESM2-LM_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPEEEVLs245r111Amtmald01123_1-86.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3-Veg-LR_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPNCCN2s126r111Amtasgn91108_1-9.zip
+cdo -s mergetime *.nc tas_Amon_NorESM2-MM_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCN2s245r111Amprgn91108_1-9.zip
+cdo -s mergetime *.nc pr_Amon_NorESM2-MM_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPEEEVLs245r111Amprld01123_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg-LR_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs245r111Amuasld01123_1-86.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3-Veg-LR_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPNCCN2s370r111Amrsgn91108_1-9.zip
+cdo -s mergetime *.nc rsds_Amon_NorESM2-MM_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCN2s126r111Ampslgn91108_1-9.zip
+cdo -s mergetime *.nc psl_Amon_NorESM2-MM_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMNCCN2hir111Ampslgn91108_1-17.zip
+cdo -s mergetime *.nc psl_Amon_NorESM2-MM_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPNCCNLs585r111Amtasgn91108_1-9.zip
+cdo -s mergetime *.nc tas_Amon_NorESM2-LM_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCN2s245r111Amrsgn91108_1-9.zip
+cdo -s mergetime *.nc rsds_Amon_NorESM2-MM_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCNLs585r111Amhssgn91108_1-9.zip
+cdo -s mergetime *.nc huss_Amon_NorESM2-LM_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCNLs370r111Amtasgn91108_1-9.zip
+cdo -s mergetime *.nc tas_Amon_NorESM2-LM_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPNCCN2s585r111Ampslgn91108_1-9.zip
+cdo -s mergetime *.nc psl_Amon_NorESM2-MM_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMNCCN2hir111Amhussgn91108_1-17.zip
+cdo -s mergetime *.nc huss_Amon_NorESM2-MM_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPEEEVLs370r111Amuasld01123_1-86.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3-Veg-LR_ssp370_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs370r111Amrsld01123_1-86.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3-Veg-LR_ssp370_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs370r111Amprld01123_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg-LR_ssp370_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs370r111Amtmald01123_1-86.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3-Veg-LR_ssp370_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs370r111Ampslld01123_1-86.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3-Veg-LR_ssp370_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs370r111Amvasld01123_1-86.zip
+cdo -s mergetime *.nc vas_Amon_EC-Earth3-Veg-LR_ssp370_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs370r111Amtasld01123_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg-LR_ssp370_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs370r111Amtmld01123_1-86.zip
+cdo -s mergetime *.nc tasmin_Amon_EC-Earth3-Veg-LR_ssp370_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs585r111Amhussld01201_1-86.zip
+cdo -s mergetime *.nc huss_Amon_EC-Earth3-Veg-LR_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs585r111Ampslld01201_1-86.zip
+cdo -s mergetime *.nc psl_Amon_EC-Earth3-Veg-LR_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs585r111Amuasld01201_1-86.zip
+cdo -s mergetime *.nc uas_Amon_EC-Earth3-Veg-LR_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs585r111Amvasld01201_1-86.zip
+cdo -s mergetime *.nc vas_Amon_EC-Earth3-Veg-LR_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs585r111Amrsld01201_1-86.zip
+cdo -s mergetime *.nc rsds_Amon_EC-Earth3-Veg-LR_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs585r111Amtasld01201_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg-LR_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs585r111Amtmld01201_1-86.zip
+cdo -s mergetime *.nc tasmin_Amon_EC-Earth3-Veg-LR_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs585r111Amtmald01201_1-86.zip
+cdo -s mergetime *.nc tasmax_Amon_EC-Earth3-Veg-LR_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVLs585r111Amprld01201_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg-LR_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPCASFGOs245r111Amtmgn90818_1-10.zip
+cdo -s mergetime *.nc tasmin_Amon_FGOALS-g3_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMNGGFEhir111AmtmaUx90726_1-2.zip
+cdo -s mergetime *.nc tasmax_Amon_GFDL-ESM4_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6SPCASFGOs245r111Amtasgn90818_1-10.zip
+cdo -s mergetime *.nc tas_Amon_FGOALS-g3_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs245r111Amtmagn90818_1-10.zip
+cdo -s mergetime *.nc tasmax_Amon_FGOALS-g3_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs126r111Amtasgn90818_1-10.zip
+cdo -s mergetime *.nc tas_Amon_FGOALS-g3_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMCASFGOhir111Amrsgn90818_1-17.zip
+cdo -s mergetime *.nc rsds_Amon_FGOALS-g3_historical_r1i1p1f1_gn_185001-201612.nc
+FILE: C6SPCASFGOs126r111Amtmagn00927_1-9.zip
+cdo -s mergetime *.nc tasmax_Amon_FGOALS-g3_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs585r111Amhussgn90818_1-10.zip
+cdo -s mergetime *.nc huss_Amon_FGOALS-g3_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMNGGFEhir111AmvasUx90726_1-2.zip
+cdo -s mergetime *.nc vas_Amon_GFDL-ESM4_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6CMMOU0hir1112Amprgn90406_1-2.zip
+cdo -s mergetime *.nc pr_Amon_UKESM1-0-LL_historical_r1i1p1f2_gn_185001-201412.nc
+FILE: C6CMNGGFEhir111AmpslUx90726_1-2.zip
+cdo -s mergetime *.nc psl_Amon_GFDL-ESM4_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6SPCASFGOs126r111Ampslgn00927_1-9.zip
+cdo -s mergetime *.nc psl_Amon_FGOALS-g3_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMCASFGOhir111Amhussgn90818_1-17.zip
+cdo -s mergetime *.nc huss_Amon_FGOALS-g3_historical_r1i1p1f1_gn_185001-201612.nc
+FILE: C6CMMOU0hir1112Amhussgn90406_1-2.zip
+cdo -s mergetime *.nc huss_Amon_UKESM1-0-LL_historical_r1i1p1f2_gn_185001-201412.nc
+FILE: C6SPCASFGOs370r111Amhussgn90820_1-10.zip
+cdo -s mergetime *.nc huss_Amon_FGOALS-g3_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs370r111Amrsgn90820_1-10.zip
+cdo -s mergetime *.nc rsds_Amon_FGOALS-g3_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs585r111Ampslgn90818_1-10.zip
+cdo -s mergetime *.nc psl_Amon_FGOALS-g3_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMNGGFEhir111AmuasUx90726_1-2.zip
+cdo -s mergetime *.nc uas_Amon_GFDL-ESM4_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6CMNGGFEhir111AmprUx90726_1-2.zip
+cdo -s mergetime *.nc pr_Amon_GFDL-ESM4_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6SPCASFGOs245r111Amhussgn90818_1-10.zip
+cdo -s mergetime *.nc huss_Amon_FGOALS-g3_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs585r111Amtasgn90818_1-10.zip
+cdo -s mergetime *.nc tas_Amon_FGOALS-g3_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs370r111Amtasgn90820_1-10.zip
+cdo -s mergetime *.nc tas_Amon_FGOALS-g3_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs245r111Amrsgn90818_1-10.zip
+cdo -s mergetime *.nc rsds_Amon_FGOALS-g3_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs370r111Amtmagn90820_1-10.zip
+cdo -s mergetime *.nc tasmax_Amon_FGOALS-g3_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs126r111Ampslgn90818_1-10.zip
+cdo -s mergetime *.nc psl_Amon_FGOALS-g3_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs126r111Amprgn90818_1-10.zip
+cdo -s mergetime *.nc pr_Amon_FGOALS-g3_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs126r111Amtasgn00927_1-9.zip
+cdo -s mergetime *.nc tas_Amon_FGOALS-g3_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs370r111Amtmgn90820_1-10.zip
+cdo -s mergetime *.nc tasmin_Amon_FGOALS-g3_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs370r111Ampslgn90820_1-10.zip
+cdo -s mergetime *.nc psl_Amon_FGOALS-g3_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMNGGFEhir111AmtmUx90726_1-2.zip
+cdo -s mergetime *.nc tasmin_Amon_GFDL-ESM4_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6SPCASFGOs126r111Amtmgn00927_1-9.zip
+cdo -s mergetime *.nc tasmin_Amon_FGOALS-g3_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs126r111Amhussgn00927_1-9.zip
+cdo -s mergetime *.nc huss_Amon_FGOALS-g3_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMCASFGOhir111Amtmagn90818_1-17.zip
+cdo -s mergetime *.nc tasmax_Amon_FGOALS-g3_historical_r1i1p1f1_gn_185001-201612.nc
+FILE: C6CMCASFGOhir111Amprgn90818_1-17.zip
+cdo -s mergetime *.nc pr_Amon_FGOALS-g3_historical_r1i1p1f1_gn_185001-201612.nc
+FILE: C6SPCASFGOs126r111Amrsgn00927_1-9.zip
+cdo -s mergetime *.nc rsds_Amon_FGOALS-g3_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs245r111Ampslgn90818_1-10.zip
+cdo -s mergetime *.nc psl_Amon_FGOALS-g3_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs585r111Amtmgn90818_1-10.zip
+cdo -s mergetime *.nc tasmin_Amon_FGOALS-g3_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs585r111Amtmagn90818_1-10.zip
+cdo -s mergetime *.nc tasmax_Amon_FGOALS-g3_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMCASFGOhir111Ampslgn90818_1-17.zip
+cdo -s mergetime *.nc psl_Amon_FGOALS-g3_historical_r1i1p1f1_gn_185001-201612.nc
+FILE: C6CMNGGFEhir111AmtasUx90726_1-2.zip
+cdo -s mergetime *.nc tas_Amon_GFDL-ESM4_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6SPCASFGOs126r111Amprgn00927_1-9.zip
+cdo -s mergetime *.nc pr_Amon_FGOALS-g3_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs585r111Amrsgn90818_1-10.zip
+cdo -s mergetime *.nc rsds_Amon_FGOALS-g3_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMCASFGOhir111Amtasgn90818_1-17.zip
+cdo -s mergetime *.nc tas_Amon_FGOALS-g3_historical_r1i1p1f1_gn_185001-201612.nc
+FILE: C6CMNGGFEhir111AmhussUx90726_1-2.zip
+cdo -s mergetime *.nc huss_Amon_GFDL-ESM4_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6SPCASFGOs585r111Amprgn90818_1-10.zip
+cdo -s mergetime *.nc pr_Amon_FGOALS-g3_ssp585_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs370r111Amprgn90820_1-10.zip
+cdo -s mergetime *.nc pr_Amon_FGOALS-g3_ssp370_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCASFGOs245r111Amprgn90818_1-10.zip
+cdo -s mergetime *.nc pr_Amon_FGOALS-g3_ssp245_r1i1p1f1_gn_201501-210012.nc
+FILE: C6CMNGGFEhir111AmrsUx90726_1-2.zip
+cdo -s mergetime *.nc rsds_Amon_GFDL-ESM4_historical_r1i1p1f1_gr1_185001-201412.nc
+FILE: C6CMCASFGOhir111Amtmgn90818_1-17.zip
+cdo -s mergetime *.nc tasmin_Amon_FGOALS-g3_historical_r1i1p1f1_gn_185001-201612.nc
+FILE: C6CMMOU0hir1112Ampslgn90406_1-2.zip
+cdo -s mergetime *.nc psl_Amon_UKESM1-0-LL_historical_r1i1p1f2_gn_185001-201412.nc
+FILE: C6CMMOU0hir1112Amrsgn90406_1-2.zip
+cdo -s mergetime *.nc rsds_Amon_UKESM1-0-LL_historical_r1i1p1f2_gn_185001-201412.nc
+FILE: C6CMMOU0hir1112Amtmgn90627_1-2.zip
+cdo -s mergetime *.nc tasmin_Amon_UKESM1-0-LL_historical_r1i1p1f2_gn_185001-201412.nc
+FILE: C6CMMOU0hir1112Amuasgn90406_1-2.zip
+cdo -s mergetime *.nc uas_Amon_UKESM1-0-LL_historical_r1i1p1f2_gn_185001-201412.nc
+FILE: C6CMMOU0hir1112Amtasgn90406_1-2.zip
+cdo -s mergetime *.nc tas_Amon_UKESM1-0-LL_historical_r1i1p1f2_gn_185001-201412.nc
+FILE: C6CMMOU0hir1112Amvasgn90406_1-2.zip
+cdo -s mergetime *.nc vas_Amon_UKESM1-0-LL_historical_r1i1p1f2_gn_185001-201412.nc
+FILE: C6CMMOU0hir1112Amtmagn90627_1-2.zip
+cdo -s mergetime *.nc tasmax_Amon_UKESM1-0-LL_historical_r1i1p1f2_gn_185001-201412.nc
+FILE: C6SPMOU0s126r1112Ampslgn90503_1-2.zip
+cdo -s mergetime *.nc psl_Amon_UKESM1-0-LL_ssp126_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s126r1112Amtmagn90708_1-2.zip
+cdo -s mergetime *.nc tasmax_Amon_UKESM1-0-LL_ssp126_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s126r1112Amrsgn90503_1-2.zip
+cdo -s mergetime *.nc rsds_Amon_UKESM1-0-LL_ssp126_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s126r1112Amuasgn90503_1-2.zip
+cdo -s mergetime *.nc uas_Amon_UKESM1-0-LL_ssp126_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s126r1112Amvasgn90503_1-2.zip
+cdo -s mergetime *.nc vas_Amon_UKESM1-0-LL_ssp126_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s126r1112Amtmgn90708_1-2.zip
+cdo -s mergetime *.nc tasmin_Amon_UKESM1-0-LL_ssp126_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s126r1112Amprgn90503_1-2.zip
+cdo -s mergetime *.nc pr_Amon_UKESM1-0-LL_ssp126_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s126r1112Amtasgn90503_1-2.zip
+cdo -s mergetime *.nc tas_Amon_UKESM1-0-LL_ssp126_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s126r1112Amhussgn90503_1-2.zip
+cdo -s mergetime *.nc huss_Amon_UKESM1-0-LL_ssp126_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s245r1112Amhussgn90507_1-2.zip
+cdo -s mergetime *.nc huss_Amon_UKESM1-0-LL_ssp245_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s245r1112Amprgn90507_1-2.zip
+cdo -s mergetime *.nc pr_Amon_UKESM1-0-LL_ssp245_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s245r1112Ampslgn90507_1-2.zip
+cdo -s mergetime *.nc psl_Amon_UKESM1-0-LL_ssp245_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s245r1112Amvasgn90507_1-2.zip
+cdo -s mergetime *.nc vas_Amon_UKESM1-0-LL_ssp245_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s245r1112Amuasgn90507_1-2.zip
+cdo -s mergetime *.nc uas_Amon_UKESM1-0-LL_ssp245_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s245r1112Amrsgn90507_1-2.zip
+cdo -s mergetime *.nc rsds_Amon_UKESM1-0-LL_ssp245_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s245r1112Amtmagn90715_1-2.zip
+cdo -s mergetime *.nc tasmax_Amon_UKESM1-0-LL_ssp245_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s245r1112Amtmgn90715_1-2.zip
+cdo -s mergetime *.nc tasmin_Amon_UKESM1-0-LL_ssp245_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s245r1112Amtasgn90507_1-2.zip
+cdo -s mergetime *.nc tas_Amon_UKESM1-0-LL_ssp245_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s370r1112Amtasgn90510_1-2.zip
+cdo -s mergetime *.nc tas_Amon_UKESM1-0-LL_ssp370_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s370r1112Amprgn90510_1-2.zip
+cdo -s mergetime *.nc pr_Amon_UKESM1-0-LL_ssp370_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s370r1112Ampslgn90510_1-2.zip
+cdo -s mergetime *.nc psl_Amon_UKESM1-0-LL_ssp370_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s370r1112Amhussgn90510_1-2.zip
+cdo -s mergetime *.nc huss_Amon_UKESM1-0-LL_ssp370_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s370r1112Amuasgn90510_1-2.zip
+cdo -s mergetime *.nc uas_Amon_UKESM1-0-LL_ssp370_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s370r1112Amtmagn90726_1-2.zip
+cdo -s mergetime *.nc tasmax_Amon_UKESM1-0-LL_ssp370_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s370r1112Amrsgn90510_1-2.zip
+cdo -s mergetime *.nc rsds_Amon_UKESM1-0-LL_ssp370_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s370r1112Amvasgn90510_1-2.zip
+cdo -s mergetime *.nc vas_Amon_UKESM1-0-LL_ssp370_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s370r1112Amtmgn90726_1-2.zip
+cdo -s mergetime *.nc tasmin_Amon_UKESM1-0-LL_ssp370_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s585r1112Amrsgn90507_1-2.zip
+cdo -s mergetime *.nc rsds_Amon_UKESM1-0-LL_ssp585_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s585r1112Amhussgn90507_1-2.zip
+cdo -s mergetime *.nc huss_Amon_UKESM1-0-LL_ssp585_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s585r1112Amtasgn90507_1-2.zip
+cdo -s mergetime *.nc tas_Amon_UKESM1-0-LL_ssp585_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s585r1112Amvasgn90507_1-2.zip
+cdo -s mergetime *.nc vas_Amon_UKESM1-0-LL_ssp585_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s585r1112Amtmagn90726_1-2.zip
+cdo -s mergetime *.nc tasmax_Amon_UKESM1-0-LL_ssp585_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s585r1112Amtmgn90726_1-2.zip
+cdo -s mergetime *.nc tasmin_Amon_UKESM1-0-LL_ssp585_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s585r1112Ampslgn90507_1-2.zip
+cdo -s mergetime *.nc psl_Amon_UKESM1-0-LL_ssp585_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s585r1112Amprgn90507_1-2.zip
+cdo -s mergetime *.nc pr_Amon_UKESM1-0-LL_ssp585_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMOU0s585r1112Amuasgn90507_1-2.zip
+cdo -s mergetime *.nc uas_Amon_UKESM1-0-LL_ssp585_r1i1p1f2_gn_201501-210012.nc
+FILE: C6SPMRME0s585r111Amtasgn91108_1-2.zip
+cdo -s mergetime *.nc tas_Amon_MRI-ESM2-0_ssp585_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPEEE3s245r111Amtasld00310_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPMRME0s126r111Amprgn91108_1-2.zip
+cdo -s mergetime *.nc pr_Amon_MRI-ESM2-0_ssp126_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPIPICLs126r111Amtasld90903_1-2.zip
+cdo -s mergetime *.nc tas_Amon_IPSL-CM6A-LR_ssp126_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPIPICLs126r111Ampslld90903_1-2.zip
+cdo -s mergetime *.nc psl_Amon_IPSL-CM6A-LR_ssp126_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPEEE3s245r111Amprld00310_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6CMEEEVEhir111Amprld11207_1-165.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6CMAWAWMhir111Amtasgn00720_1-165.zip
+cdo -s mergetime *.nc tas_Amon_AWI-CM-1-1-MR_historical_r1i1p1f1_gn_185001-201412.nc
+FILE: C6SPEEE3s585r111Amtasld00310_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPMRME0s126r111Amtasgn91108_1-2.zip
+cdo -s mergetime *.nc tas_Amon_MRI-ESM2-0_ssp126_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPCASFGOs126r111Ampslgn00927_1-9.zip
+cdo -s mergetime *.nc psl_Amon_FGOALS-g3_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPCCCEs585r111Amprgn90429_1-3.zip
+cdo -s mergetime *.nc pr_Amon_CanESM5_ssp585_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPCIIITs126r111Ampslgn01112_1-9.zip
+cdo -s mergetime *.nc psl_Amon_IITM-ESM_ssp126_r1i1p1f1_gn_201501-209912.nc
+FILE: C6SPCIIITs126r111Amprgn01112_1-10.zip
+cdo -s mergetime *.nc pr_Amon_IITM-ESM_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPIPICLs585r111Amprld90903_1-2.zip
+cdo -s mergetime *.nc pr_Amon_IPSL-CM6A-LR_ssp585_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPNRCESWs585r111Amtasgn00702_1-5.zip
+cdo -s mergetime *.nc tas_Amon_CESM2-WACCM_ssp585_r1i1p1f1_gn_201501-229912.nc
+FILE: C6SPEEEVEs585r4111Amtasld00425_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg_ssp585_r4i1p1f1_gr_201501-210012.nc
+FILE: C6SPNRCESWs585r111Amprgn00702_1-5.zip
+cdo -s mergetime *.nc pr_Amon_CESM2-WACCM_ssp585_r1i1p1f1_gn_201501-229912.nc
+FILE: C6SPEEE3s585r9111Amtasld00201_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3_ssp585_r9i1p1f1_gr_201501-210012.nc
+FILE: C6SPNRCESWs585r111Ampslgn00702_1-5.zip
+cdo -s mergetime *.nc psl_Amon_CESM2-WACCM_ssp585_r1i1p1f1_gn_201501-229912.nc
+FILE: C6CMEEEVEhir111Amtasld11207_1-165.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6SPCASFGOs126r111Amtasgn00927_1-9.zip
+cdo -s mergetime *.nc tas_Amon_FGOALS-g3_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMIMILs585r1112Amprgn20314_1-2.zip
+cdo -s mergetime *.nc pr_Amon_MIROC-ES2L_ssp585_r1i1p1f2_gn_201501-230012.nc
+FILE: C6SPEEE3s585r6111Amtasld00201_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3_ssp585_r6i1p1f1_gr_201501-210012.nc
+FILE: C6SPEEEVEs245r4111Amtasld00425_1-86.zip
+cdo -s mergetime *.nc tas_Amon_EC-Earth3-Veg_ssp245_r4i1p1f1_gr_201501-210012.nc
+FILE: C6SPCIIITs126r111Amtasgn01112_1-10.zip
+cdo -s mergetime *.nc tas_Amon_IITM-ESM_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMRME0s585r111Amprgn91108_1-2.zip
+cdo -s mergetime *.nc pr_Amon_MRI-ESM2-0_ssp585_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPCCCEs126r111Amprgn90429_1-2.zip
+cdo -s mergetime *.nc pr_Amon_CanESM5_ssp126_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPEEE3s585r111Amprld00310_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3_ssp585_r1i1p1f1_gr_201501-210012.nc
+FILE: C6SPIPICLs126r111Amprld90903_1-2.zip
+cdo -s mergetime *.nc pr_Amon_IPSL-CM6A-LR_ssp126_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPEEEVEs245r111Amprld00225_1-86.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3-Veg_ssp245_r1i1p1f1_gr_201501-210012.nc
+FILE: C6CMEEE3hir111Amprld00310_1-165.zip
+cdo -s mergetime *.nc pr_Amon_EC-Earth3_historical_r1i1p1f1_gr_185001-201412.nc
+FILE: C6SPCASFGOs126r111Amprgn00927_1-9.zip
+cdo -s mergetime *.nc pr_Amon_FGOALS-g3_ssp126_r1i1p1f1_gn_201501-210012.nc
+FILE: C6SPMRME0s126r111Ampslgn91108_1-2.zip
+cdo -s mergetime *.nc psl_Amon_MRI-ESM2-0_ssp126_r1i1p1f1_gn_201501-230012.nc
+FILE: C6SPIPICLs585r111Amtasld90903_1-2.zip
+cdo -s mergetime *.nc tas_Amon_IPSL-CM6A-LR_ssp585_r1i1p1f1_gr_201501-230012.nc
+FILE: C6SPMIMILs126r1112Amprgn20314_1-2.zip
+cdo -s mergetime *.nc pr_Amon_MIROC-ES2L_ssp126_r1i1p1f2_gn_201501-230012.nc

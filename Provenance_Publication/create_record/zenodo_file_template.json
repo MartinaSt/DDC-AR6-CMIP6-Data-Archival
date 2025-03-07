@@ -1,0 +1,108 @@
+{
+  "@context": "http://schema.org",
+  "@id": "zen_doi",
+  "@type": "https://schema.org/Dataset",
+  "identifier": "zen_doi",
+  "name": 	"CMIP6 input data usage information for IPCC WGI AR6 figure $fig_no",
+  "additionalType":"ComplexCitationObject",
+  "author": [
+    {
+      "name": "IPCC Data Distribution Centre",
+      "@type": "Organization"
+    }
+  ],
+  "editor": [
+    {
+      "name": "Stockhause, Martina",
+      "givenName": "Martina",
+      "familyName": "Stockhause",
+      "@id": "https://orcid.org/0000-0002-6378-6229",
+      "@type": "Person"
+    }
+  ],
+  "maintainer": [
+    {
+      "name": "Stockhause, Martina",
+      "givenName": "Martina",
+      "familyName": "Stockhause",
+      "@id": "https://orcid.org/0000-0002-6378-6229",
+      "@type": "Person"
+    }
+  ],
+  "publisher": {
+    "name": "Zenodo",
+    "@type": "Organization"
+  },
+    "keywords": ["IPCC AR6","IPCC WGI AR6","IPCC DDC","climate","provenance","complex citation","CMIP6","Coupled Model Intercomparison Project Phase 6","Sixth Assessment Report","WGI","Physical Science Basis","ipcc-ar6","figure $fig_no"],
+  "datePublished": "$pubdate",
+  "dateModified": "$pubdate",
+  "temporal": [
+    "$pubdate"
+  ],
+  "inLanguage": {
+    "alternateName": "eng",
+    "@type": "Language",
+    "name": "English"
+  },
+  "version": "$version",
+  "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "abstract": "The record contains information on input dataset usage and citation information from the WCRP Coupled Model Intercomparison Project Phase 6 (CMIP6) for the generation of figure $fig_no of the Sixth Assessment Report of Working Group I of the Intergovernmental Panel on Climate Change (IPCC AR6 WGI). CMIP6 data that were used as input to this figure follow the Data Reference Syntax. Persistent Identifiers (PIDs) for data identification (provenance) are available for individual datasets as Handle IDs. DOIs for data citation are available on the following dataset collections: CMIP6 DOIs contain all datasets provided by an Earth System model to a CMIP6 experiment. The data subsets of CMIP6 dataset collections used in the IPCC AR6 WGI have DOIs at this granularity of a model contribution to an experiment. The AR6 subset DOIs are included because they reside in a long-term preservation archive hosted by the IPCC Data Distribution Centre (DDC). \n\nThe uploaded human-readable csv file provides a list of datasets/Handle IDs used for the generation of this figure grouped by the corresponding dataset collections they belong to. The machine-actionable json-ld file describes the record as Complex Citation Object (see Agarwal et al., 2024, https://doi.org/10.5281/zenodo.14106602) in a preliminary standard, using the following vocabulary to specify the different functions of the contained Linked Digital Objects: Credit (input dataset collection to be cited/to which credit is to be assigned), Provenance (dataset contributing information to the generation of the DataProduct), archivedAt (dataset collection with long-term preservation), DigitalDocument (referenced papers containing further information), DataProduct (generated final dataset), ImageObject (visualization of the DataProduct), SoftwareSourceCode (software applied to generate the DataProduct), Chapter (IPCC AR6 WGI chapter in which the DataProduct is used/referenced). \n\nUse and cite this record when referring to the generation of IPCC WGI AR6 figure $fig_no.",
+  "citation": [
+    {
+      "@type": "DataCatalog",
+      "name":"c6doi_name",
+      "@id": "c6doi",
+      "additionalType":"Credit",
+      "hasPart": [
+          {
+             "@type": "Dataset",
+	     "name":"c6hdl_name",
+             "@id": "c6hdl",
+             "additionalType":"Provenance"
+          },
+          {
+             "@type": "archivedAt",
+             "name":"ar6doi_name",
+              "@id": "ar6doi",
+             "hasPart": [
+                {
+                    "@type": "Dataset",
+	            "name":"c6hdl_name",
+                    "@id": "c6hdl",
+                    "additionalType":"Provenance"
+                }
+             ]
+          }   
+      ]
+    }
+  ],
+  "subjectOf": [{
+       "@type": "DigitalDocument",
+       "@id": "$usecase_doi"
+  },
+  {
+       "@type": "DigitalDocument",
+       "@id": "$c6paper_doi"
+  },
+  {
+       "@type": "DigitalDocument",
+       "@id": "$cco_doi"
+  }],
+  "@reverse": {
+      "citation": [
+           {
+              "@type": "Dataset",
+               "@id": "$findata_doi",
+               "additionalType":"DataProduct"
+           },
+           {
+              "@type": "ImageObject",
+              "@id": "$fig_url"
+           },
+           {
+              "@type": "Chapter",
+              "@id": "$ar6ch_doi"
+           }
+       ]
+  }
+}
