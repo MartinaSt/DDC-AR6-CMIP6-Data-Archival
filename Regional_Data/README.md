@@ -21,4 +21,4 @@ The provision of selected CMIP6 input datasets for regions utilizes the Climate 
 
    cdo -s mergetime
 
-The applied cdo commands are documented in the history attribute of each NetCDF file header. The data subset is documented in [IPCC_AR6_RegionData.pdf](/Provenance_Publication/IPCC_AR6_RegionData.pdf).
+The applied cdo commands are documented in the history attribute of each NetCDF file header. The data subset is documented in [IPCC_AR6_RegionData.pdf](/Regional_Data/IPCC_AR6_RegionData.pdf).
