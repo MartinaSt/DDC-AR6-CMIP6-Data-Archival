@@ -8,6 +8,8 @@ This documentation is part of the enhanced transparency implemented as IPCC FAIR
 
 The CMIP6 input dataset lists provided by the TSU WGI contain abbreviated information on figure usage, which was used to add references/links to to the figure/final datasets or the figure webpage of the IPCC WGI AR6 to the metadata. 
 
+Finally, regional subsets of selected core variables were added to the archive in support of developing countries with low internet bandwidth.
+
 ## Processing steps for the CMIP6 input dataset list
 
 **1. Tidy up the received chapter lists turning it into a valid json and harmonizing usage of several missing values:**
@@ -59,11 +61,22 @@ An overview oover the changes applied in steps 4. and 5. to the input dataset li
 
 The CMIP6 input data set lists provided by the TSU WGI contain abbreviated information on figure usage of the the data sets. This information was used to add references/links to the figure/final data sets in the CEDA catalogue (https://catalogue.ceda.ac.uk/) and to the figure pages of the IPCC WGI AR6 (https://www.ipcc.ch/report/ar6/wg1/figures).
 
+**8. Selected CMIP6 input datasets for regions
+
+In support of developing countries with low internet bandwidth, selected variables of the CMIP6 input datasets are additionally provided for different regions.
+
+**9. Publication of provenance information on figure generation
+
+The provenance information on CMIP6 data usage in the generation of figures of the IPCC AR6 WGI was published to Zendo for each figure as a pilot implementation of the RDA Complex Citation Working Groups recommendations.
+
+
 ## Repository Structure
 
    - [Archived_Data](/Archived_Data): input and intermediate datasets archived at DDC Partner DKRZ
    - [Metadata_Conformance](/Metadata_Conformance): containing scripts for steps 1 to 3
    - [Data_Verification](/Data_Verification): containing scripts for steps 4 to 6
+   - [Regional Data](/Regional_Data): containing scripts for step 8
+   - [Provenance Publication](/Provenance_Publication): containing scripts for step 9
 
 ## Variable usage analysis: Metadata_Conformance/varlist4dreq.py
 
@@ -71,7 +84,7 @@ For CMIP7 planning, the CMIP6 variable usage by IPCC WGI authors was analyzed ba
 
 ## Installation
 
-The Preparation package requires python2.7. The Validation package was done using Python 3.7 including Python packages: json, pandas, tqdm, uuid, intake, pyhandle.handleclient (PyHandleClient).
+The Metadata Conformance package requires python2.7. The Data Verification package was done using Python 3.7 including Python packages: json, pandas, tqdm, uuid, intake, pyhandle.handleclient (PyHandleClient). The Regional Data package uses shell scripts and Python 3.
 
 ## License
 
