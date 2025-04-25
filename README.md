@@ -61,11 +61,11 @@ An overview oover the changes applied in steps 4. and 5. to the input dataset li
 
 The CMIP6 input data set lists provided by the TSU WGI contain abbreviated information on figure usage of the the data sets. This information was used to add references/links to the figure/final data sets in the CEDA catalogue (https://catalogue.ceda.ac.uk/) and to the figure pages of the IPCC WGI AR6 (https://www.ipcc.ch/report/ar6/wg1/figures).
 
-**8. Selected CMIP6 input datasets for regions
+**8. Selected CMIP6 input datasets for regions:**
 
 In support of developing countries with low internet bandwidth, selected variables of the CMIP6 input datasets are additionally provided for different regions.
 
-**9. Publication of provenance information on figure generation
+**9. Publication of provenance information on figure generation:**
 
 The provenance information on CMIP6 data usage in the generation of figures of the IPCC AR6 WGI was published to Zendo for each figure as a pilot implementation of the RDA Complex Citation Working Groups recommendations.
 
