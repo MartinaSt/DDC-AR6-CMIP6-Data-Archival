@@ -138,6 +138,7 @@ Selected variables are provided on regions (further information: [IPCC_AR6_Regio
 | [South Pole](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo) | 120°W - 30°W | 58°S - 15°N | [orog](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_orog) [sftgif](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_sftgif) [sftlf](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_sftlf) [huss](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_huss) [pr](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_pr) [psl](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_psl) [rsds](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_rsds) [tas](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_tas) [tasmin](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_tasmin) [tasmax](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_tasmax) [uas](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_uas) [vas](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_vas) |
 
 # CMIP6 data usage in AR6 WGI figures / provenance information
-For 107 figures of the AR6 WGI the CMIP6 data usage or provenance information was published through Zenodo. It connects information on CMIP7 dataset usage in the figures together with their DOIs, the used code, the final data, and the figure/chapter:
+For 107 figures of the AR6 WGI the CMIP6 data usage or provenance information was published through Zenodo. It connects information on CMIP6 dataset usage in the figures together with their DOIs, the used code, the final data, and the figure/chapter:
 
 https://zenodo.org/communities/ipcc-ar6/records?q=%22CMIP6%20input%20data%20usage%20information%20for%20IPCC%20WGI%20AR6%20figure%22
+
