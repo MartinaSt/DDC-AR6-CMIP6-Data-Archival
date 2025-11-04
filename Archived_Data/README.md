@@ -137,8 +137,61 @@ Selected variables are provided on regions (further information: [IPCC_AR6_Regio
 | [North Pole](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_NPo) | 170°W - 45°W | 5°N - 85°N | [orog](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_NPo_orog) [sftgif](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_NPo_sftgif) [sftlf](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_NPo_sftlf) [huss](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_NPo_huss) [pr](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_NPo_pr) [psl](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_NPo_psl) [rsds](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_NPo_rsds) [tas](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_NPo_tas) [tasmin](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_NPo_tasmin) [tasmax](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_NPo_tasmax) [uas](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_NPo_uas) [vas](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_NPo_vas) |
 | [South Pole](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo) | 120°W - 30°W | 58°S - 15°N | [orog](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_orog) [sftgif](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_sftgif) [sftlf](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_sftlf) [huss](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_huss) [pr](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_pr) [psl](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_psl) [rsds](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_rsds) [tas](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_tas) [tasmin](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_tasmin) [tasmax](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_tasmax) [uas](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_uas) [vas](https://doi.org/10.26050/WDCC/AR6.IPCC-AR6_Reg_SPo_vas) |
 
-# CMIP6 data usage in AR6 WGI figures / provenance information
-For 107 figures of the AR6 WGI the CMIP6 data usage or provenance information was published through Zenodo. It connects information on CMIP6 dataset usage in the figures together with their DOIs, the used code, the final data, and the figure/chapter:
+# IPCC AR6 Working Group I - CMIP6 data usage in figures / provenance information
+For 107 figures of the AR6 WGI the CMIP6 data usage or provenance information was published through Zenodo. It connects information on CMIP6 dataset usage in the figures together with their DOIs, the used code, the final data, and the figure/chapter ([list of Zenodo records](https://zenodo.org/communities/ipcc-ar6/records?q=%22CMIP6%20input%20data%20usage%20information%20for%20IPCC%20WGI%20AR6%20figure%22)).
 
-https://zenodo.org/communities/ipcc-ar6/records?q=%22CMIP6%20input%20data%20usage%20information%20for%20IPCC%20WGI%20AR6%20figure%22
+The following table displays the CMIP6 input data usage / provenance information for figures in the DDC. The links resolve to a dedicated Zenodo record. 
+
+| Chapter 1 | Chapter 2 | Chapter 3 | Chapter 4 | Chapter 5 | Chapter 6 | Chapter 7 | Chapter 8 | Chapter 9 | Chapter 10 | Chapter 11 | Chapter 12 | Chapter Atlas |
+| ---------| --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | ---------- | ---------- | ---------- | ---------- |
+| |  | [Figure 3.2](https://doi.org/10.5281/zenodo.14986354)   |  |  |  |   |  |  |  |  |  |  |
+| |  | [Figure 3.3](https://doi.org/10.5281/zenodo.14986376)   |  |  |  |   |  | [Figure 9.3](https://doi.org/10.5281/zenodo.14986534) |  | [Figure 11.3](https://doi.org/10.5281/zenodo.14986329) |  |  |
+| |  | [Figure 3.4](https://doi.org/10.5281/zenodo.14986396)   |  |  |  |   |  | [Figure 9.4](https://doi.org/10.5281/zenodo.14986536) |  |  |  |  |
+| |  | [Figure 3.5](https://doi.org/10.5281/zenodo.14986408)   |  |  |  |   |  | [Figure 9.5](https://doi.org/10.5281/zenodo.14986538) |  |  |  |  | 
+| |  | [Figure 3.6](https://doi.org/10.5281/zenodo.14986412)   |  |  |  |   |  | [Figure 9.6](https://doi.org/10.5281/zenodo.14986540) | [Figure 10.6](https://doi.org/10.5281/zenodo.14986321) |  |  |  | |
+| |  | [Figure 3.7](https://doi.org/10.5281/zenodo.14986414)   |  |  |  |   |  | [Figure 9.7](https://doi.org/10.5281/zenodo.14986542) |  |  |  |  | 
+| |  | [Figure 3.8](https://doi.org/10.5281/zenodo.14986416)   |  |  |  |   |  |  |  |  |  |  |
+| |  | [Figure 3.9](https://doi.org/10.5281/zenodo.14986418)   |  |  |  |   |  |  |  |  |  |   |
+| |  | [Figure 3.10](https://doi.org/10.5281/zenodo.14986333)  |  |  |  |   |  | [Figure 9.10](https://doi.org/10.5281/zenodo.14986475) |  |  |  |   |
+| |  | [Figure 3.11](https://doi.org/10.5281/zenodo.14986335)  |  |  |  |   |  | [Figure 9.11](https://doi.org/10.5281/zenodo.14986477) | [Figure 10.11](https://doi.org/10.5281/zenodo.14986307) | [Figure 11.11](https://doi.org/10.5281/zenodo.14986323) |  |  |
+| |  | [Figure 3.12](https://doi.org/10.5281/zenodo.14986337)  | [Figure 4.12](https://doi.org/10.5281/zenodo.14986420) |  |  |  |  | [Figure 9.12](https://doi.org/10.5281/zenodo.14986479) | [Figure 10.12](https://doi.org/10.5281/zenodo.14986309) |  |  |  |
+| |  | [Figure 3.13](https://doi.org/10.5281/zenodo.14986339)  | [Figure 4.13](https://doi.org/10.5281/zenodo.14986422) |  |  |  | [Figure 8.13](https://doi.org/10.5281/zenodo.14986454) | [Figure 9.13](https://doi.org/10.5281/zenodo.14986481) | [Figure 10.13](https://doi.org/10.5281/zenodo.14986311) |   |  | [Figure Atlas.13](https://doi.org/10.5281/zenodo.14986544) | 
+| |  | [Figure 3.14](https://doi.org/10.5281/zenodo.14986341)  |  |  |  |   | [Figure 8.14](https://doi.org/10.5281/zenodo.14986456) |  |  |  |  |  |
+| |  | [Figure 3.15](https://doi.org/10.5281/zenodo.14986343)  |  |  |  |   | [Figure 8.15](https://doi.org/10.5281/zenodo.14986459) | [Figure 9.15](https://doi.org/10.5281/zenodo.14986528) |  |  |  |  |
+| |  | [Figure 3.16](https://doi.org/10.5281/zenodo.14986345)  |  |  |  |   | [Figure 8.16](https://doi.org/10.5281/zenodo.14986463) |  |  | [Figure 11.16](https://doi.org/10.5281/zenodo.14986325) | | [Figure Atlas.16](https://doi.org/10.5281/zenodo.14986546) | 
+| |  | [Figure 3.17](https://doi.org/10.5281/zenodo.14986347)  |  |  |  |   | [Figure 8.17](https://doi.org/10.5281/zenodo.14986465) |  |   | |  | [Figure Atlas.17](https://doi.org/10.5281/zenodo.14986548) |
+| |  | [Figure 3.18](https://doi.org/10.5281/zenodo.14986350)  |  |  |  |   | [Figure 8.18](https://doi.org/10.5281/zenodo.14986467) |  | [Figure 10.18](https://doi.org/10.5281/zenodo.14986313) |  |  |  |
+| |  | [Figure 3.19](https://doi.org/10.5281/zenodo.14986352)  | [Figure 4.19](https://doi.org/10.5281/zenodo.14986424) |  |  |   |  |  | [Figure 10.19](https://doi.org/10.5281/zenodo.14986315) | [Figure 11.19](https://doi.org/10.5281/zenodo.14986327) |  |   |
+| |  | [Figure 3.20](https://doi.org/10.5281/zenodo.14986356)  |  |  | [Figure 6.20](https://doi.org/10.5281/zenodo.14986446) |   |  |  | [Figure 10.20](https://doi.org/10.5281/zenodo.14986317) |  |  |   |
+| |  | [Figure 3.21](https://doi.org/10.5281/zenodo.14986358)  |  |  | [Figure 6.21](https://doi.org/10.5281/zenodo.14986448) |   | [Figure 8.21](https://doi.org/10.5281/zenodo.14986469) |  | [Figure 10.21](https://doi.org/10.5281/zenodo.14986319) |  | | [Figure Atlas.21](https://doi.org/10.5281/zenodo.14986550) | 
+| |  | [Figure 3.22](https://doi.org/10.5281/zenodo.14986360)  | [Figure 4.22](https://doi.org/10.5281/zenodo.14986426) |  |  |  |  | [Figure 9.22](https://doi.org/10.5281/zenodo.14986530) |  |  | | [Figure Atlas.22](https://doi.org/10.5281/zenodo.14986552) |  
+| |  | [Figure 3.23](https://doi.org/10.5281/zenodo.14986362)  | [Figure 4.23](https://doi.org/10.5281/zenodo.14986428) |  |  |  |  |  |  |  |  |  |
+| |  | [Figure 3.24](https://doi.org/10.5281/zenodo.14986364)  | [Figure 4.24](https://doi.org/10.5281/zenodo.14986430) |  |  |  |  | [Figure 9.24](https://doi.org/10.5281/zenodo.14986532) |  |  | | [Figure Atlas.24](https://doi.org/10.5281/zenodo.14986554) | 
+| |  | [Figure 3.25](https://doi.org/10.5281/zenodo.14986366)  | [Figure 4.25](https://doi.org/10.5281/zenodo.14986432) |  |  |  | [Figure 8.25](https://doi.org/10.5281/zenodo.14986471) |  |  |  |  |  |
+| |  | [Figure 3.26](https://doi.org/10.5281/zenodo.14986368)  | [Figure 4.26](https://doi.org/10.5281/zenodo.14986434) |  |  |  | [Figure 8.26](https://doi.org/10.5281/zenodo.14986473) |  |  |  | | [Figure Atlas.26](https://doi.org/10.5281/zenodo.14986556) | 
+| |  | [Figure 3.27](https://doi.org/10.5281/zenodo.14986370)  |  |  |  |   |  |  |  |  |  |  |
+| |  | [Figure 3.28](https://doi.org/10.5281/zenodo.14986372)  |  |  |  |   |  |  |  |  | | [Figure Atlas.28](https://doi.org/10.5281/zenodo.14986558) | 
+| |  | [Figure 3.29](https://doi.org/10.5281/zenodo.14986374)  |  |  |  |   |  |  |  |  | | [Figure Atlas.29](https://doi.org/10.5281/zenodo.14986560) | | 
+| |  | [Figure 3.30](https://doi.org/10.5281/zenodo.14986378)  |  |  |  |   |  |  |  |  |  |  |
+| |  | [Figure 3.31](https://doi.org/10.5281/zenodo.14986380)  | [Figure 4.31](https://doi.org/10.5281/zenodo.14986436) |  |  |   |  |  |  |  |  |  |
+| |  | [Figure 3.32](https://doi.org/10.5281/zenodo.14986382)  | [Figure 4.32](https://doi.org/10.5281/zenodo.14986438) |  |  |   |  |  |  |  |  |   |
+| |  | [Figure 3.33](https://doi.org/10.5281/zenodo.14986384)  |  | [Figure 5.33](https://doi.org/10.5281/zenodo.14986444) |  |   |  |  |  |  |  |   |
+| |  | [Figure 3.34](https://doi.org/10.5281/zenodo.14986386)  |  |  |  |   |  |  |  |  |  |   |
+| |  | [Figure 3.35](https://doi.org/10.5281/zenodo.14986388)  |  |  |  |   |  |  |  |  |  |   |
+| |  | [Figure 3.36](https://doi.org/10.5281/zenodo.14986390)  |  |  |  |   |  |  |  |  |  |   |
+| |  | [Figure 3.37](https://doi.org/10.5281/zenodo.14986392)  |  |  |  |   |  |  |  |  |  |   |
+| |  | [Figure 3.39](https://doi.org/10.5281/zenodo.14986394)  |  |  |  |   |  |  |  |  |  |   |
+| |  | [Figure 3.40](https://doi.org/10.5281/zenodo.14986398)  |  |  |  |   |  |  |  |  |  |   |
+| |  | [Figure 3.41](https://doi.org/10.5281/zenodo.14986400)  | [Figure 4.41](https://doi.org/10.5281/zenodo.14986440) |  |  |  |  |  |  |  |  |  |
+| |  | [Figure 3.42](https://doi.org/10.5281/zenodo.14986402)  | [Figure 4.42](https://doi.org/10.5281/zenodo.14986442) |  |  |  |  |  |  |  |  |  |
+| |  | [Figure 3.43](https://doi.org/10.5281/zenodo.14986404)  |  |  |  |   |  |  |  |  |  |   |
+| |  |  |  |  |  |  |  |  |  |  |
+| |  |  |  |  |  |  |  |  |  | [Figure 11.A.1](https://doi.org/10.5281/zenodo.14986331) |  |   |
+| |  | [Figure CCB3.1.1](https://doi.org/10.5281/zenodo.14986564) |  |  |  |  |  |  |  |  |  |   |
+| |  | [Figure CCB3.2.1](https://doi.org/10.5281/zenodo.14986566) |  |  |  |  |  |  |  |  |  |   |
+| |  |  |  |  |  |  |  |  | [Figure CCB10.4.1](https://doi.org/10.5281/zenodo.14986562) |  |  |   |
+| |  | [Figure FAQ3.1.1](https://doi.org/10.5281/zenodo.14986568) |  |  |  |  |  |  |  |  |  |   |
+| |  | [Figure FAQ3.3.1](https://doi.org/10.5281/zenodo.14986570) |  |  |  |  |  |  |  |  |  |   |
+| |  |  |  |  | [Figure 6.SM.4](https://doi.org/10.5281/zenodo.14986450) |  |  |  |  |  |  |   |
+| |  |  |  |  | [Figure 6.SM.5](https://doi.org/10.5281/zenodo.14986452) |  |  |  |  |  |  |   |
 
